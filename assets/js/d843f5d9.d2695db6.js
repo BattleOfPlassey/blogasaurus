@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[30],{8680:function(s){s.exports=JSON.parse('{"allTagsPath":"/blogasaurus/tags","slug":"conformity","name":"conformity","count":3,"permalink":"/blogasaurus/tags/conformity"}')}}]);

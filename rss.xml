@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Bespoke Blog</title>
+        <link>https://battleofplassey.github.io/blogasaurus/</link>
+        <description>Bespoke Blog</description>
+        <lastBuildDate>Sat, 16 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021 Bespoke by Palash Shrivastava</copyright>
+        <item>
+            <title><![CDATA[Does conformity stifles creativity ?]]></title>
+            <link>https://battleofplassey.github.io/blogasaurus/conformity-stifles-creativity</link>
+            <guid>conformity-stifles-creativity</guid>
+            <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The extend to which conformity stifles creativity depends upon the nature of the job being executed, the temperament of each individual and the final goal to be achieved. I am in full agreement that conformity stifles creativity; indeed they both are mutually exclusive.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Should students challenge the assertions of others?]]></title>
+            <link>https://battleofplassey.github.io/blogasaurus/challenge-assertion</link>
+            <guid>challenge-assertion</guid>
+            <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Questioning and challenging the assertions of others has proven to be effective in the process of learning]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Advancements in a field of study and outside experts]]></title>
+            <link>https://battleofplassey.github.io/blogasaurus/experts-newbie</link>
+            <guid>experts-newbie</guid>
+            <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Questioning and challenging the assertions of others has proven to be effective in the process of learning]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fundamentals of Android Development]]></title>
+            <link>https://battleofplassey.github.io/blogasaurus/android-part</link>
+            <guid>android-part</guid>
+            <pubDate>Wed, 28 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Android operating system is a multi-user Linux system in which each app is a different user.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Indicator of a great nation]]></title>
+            <link>https://battleofplassey.github.io/blogasaurus/great-nation</link>
+            <guid>great-nation</guid>
+            <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[How do you define a Great nation?  To have common glories in the past, to have a common will in the present, to have performed great deeds together, to wish to perform still more, these are the essential conditions of a being a Great Nation.]]></description>
+        </item>
+    </channel>
+</rss>

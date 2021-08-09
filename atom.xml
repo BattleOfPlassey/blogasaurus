@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://battleofplassey.github.io/blogasaurus/</id>
+    <title>Bespoke Blog</title>
+    <updated>2021-01-16T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://battleofplassey.github.io/blogasaurus/"/>
+    <subtitle>Bespoke Blog</subtitle>
+    <icon>https://battleofplassey.github.io/blogasaurus/img/favicon.ico</icon>
+    <rights>Copyright © 2021 Bespoke by Palash Shrivastava</rights>
+    <entry>
+        <title type="html"><![CDATA[Does conformity stifles creativity ?]]></title>
+        <id>conformity-stifles-creativity</id>
+        <link href="https://battleofplassey.github.io/blogasaurus/conformity-stifles-creativity"/>
+        <updated>2021-01-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The extend to which conformity stifles creativity depends upon the nature of the job being executed, the temperament of each individual and the final goal to be achieved. I am in full agreement that conformity stifles creativity; indeed they both are mutually exclusive.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should students challenge the assertions of others?]]></title>
+        <id>challenge-assertion</id>
+        <link href="https://battleofplassey.github.io/blogasaurus/challenge-assertion"/>
+        <updated>2021-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Questioning and challenging the assertions of others has proven to be effective in the process of learning]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advancements in a field of study and outside experts]]></title>
+        <id>experts-newbie</id>
+        <link href="https://battleofplassey.github.io/blogasaurus/experts-newbie"/>
+        <updated>2020-12-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Questioning and challenging the assertions of others has proven to be effective in the process of learning]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fundamentals of Android Development]]></title>
+        <id>android-part</id>
+        <link href="https://battleofplassey.github.io/blogasaurus/android-part"/>
+        <updated>2020-10-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Android operating system is a multi-user Linux system in which each app is a different user.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indicator of a great nation]]></title>
+        <id>great-nation</id>
+        <link href="https://battleofplassey.github.io/blogasaurus/great-nation"/>
+        <updated>2020-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do you define a Great nation?  To have common glories in the past, to have a common will in the present, to have performed great deeds together, to wish to perform still more, these are the essential conditions of a being a Great Nation.]]></summary>
+    </entry>
+</feed>
