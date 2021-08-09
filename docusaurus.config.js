@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Bespoke',
+  title: 'Blogasaurus',
   tagline: 'A blog by Palash Shrivastava',
   url: 'https://battleofplassey.github.io/',
   baseUrl: '/blogasaurus/',
@@ -15,7 +15,7 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'Bespoke by Palash Shrivastava',
+      title: 'Blogasaurus',
       logo: {
         alt: 'My Site Logo',
         src: 'img/palash_about-removebg-preview.png',
@@ -70,7 +70,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Bespoke by Palash Shrivastava`,
+      copyright: `Copyright © ${new Date().getFullYear()} Blogasaurus by Palash Shrivastava`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -91,7 +91,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           routeBasePath: '/',
-          blogTitle: 'Bespoke',
+          blogTitle: 'Blogasaurus',
           blogDescription: 'A blog by Palash Shrivastava',
           // editUrl:
           //   'https://github.com/facebook/docusaurus/edit/master/website/blog/',
@@ -100,7 +100,7 @@ module.exports = {
           blogSidebarTitle: 'All Blog Posts',
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Bespoke by Palash Shrivastava`,
+            copyright: `Copyright © ${new Date().getFullYear()} Blogasaurus by Palash Shrivastava`,
           },
         },
         theme: {
