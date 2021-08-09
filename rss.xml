@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Bespoke Blog</title>
+        <title>Blogasaurus Blog</title>
         <link>https://battleofplassey.github.io/blogasaurus/</link>
-        <description>Bespoke Blog</description>
+        <description>Blogasaurus Blog</description>
         <lastBuildDate>Sat, 16 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2021 Bespoke by Palash Shrivastava</copyright>
+        <copyright>Copyright © 2021 Blogasaurus by Palash Shrivastava</copyright>
         <item>
             <title><![CDATA[Does conformity stifles creativity ?]]></title>
             <link>https://battleofplassey.github.io/blogasaurus/conformity-stifles-creativity</link>
