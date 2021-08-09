@@ -5,13 +5,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Bespoke',
   tagline: 'A blog by Palash Shrivastava',
-  url: 'https://blog.palashshrivastava.tech',
-  baseUrl: '/',
+  url: 'https://battleofplassey.github.io/',
+  baseUrl: '/blogasaurus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'battleofplassey', // Usually your GitHub org/user name.
+  projectName: 'blogasaurus', // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'Bespoke by Palash Shrivastava',
