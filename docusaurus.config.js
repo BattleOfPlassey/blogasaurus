@@ -80,7 +80,7 @@ module.exports = {
             title: 'Projects',
             items: [
               {
-                label: 'SidToons',
+                label: 'SidToons.com',
                 href: 'https://sidtoons.com',
               },
               {
@@ -88,11 +88,11 @@ module.exports = {
                 href: 'https://vocab.js.org',
               },
               {
-                label: 'TL;DR News',
+                label: 'TL:DR News',
                 href: 'https://tldr.palashsh.me/'
               },
               {
-                label : "<hacker's chat'>",
+                label : "hacker's chat",
                 href : 'http://chat.palashsh.me/',
                 icon: ''
               }
