@@ -15,24 +15,27 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'BLOGASAURUS',
+      hideOnScroll: true,
+      title: 'Blogasaurus',
       logo: {
         alt: 'My Site Logo',
         src: 'img/rex-03.svg',
       },
       items: [
+        // {to: '/', label: 'Blog', position: 'left'},
+
         // {
         //   type: 'doc',
         //   docId: 'intro',
         //   position: 'left',
-        //   label: 'Tutorial',
+        //   label: 'Articles',
         // },
-        // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/battleofplassey',
-          label: 'GitHub',
           position: 'right',
-        },
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
+        }
       ],
     },
     footer: {
@@ -88,11 +91,11 @@ module.exports = {
                 href: 'https://vocab.js.org',
               },
               {
-                label: 'TLDR News',
+                label: 'TL;DR News',
                 href: 'https://tldr.palashsh.me/'
               },
               {
-                label : "hackers chat",
+                label : "<hacker's chat>",
                 href : 'http://chat.palashsh.me/',
                 icon: ''
               }
