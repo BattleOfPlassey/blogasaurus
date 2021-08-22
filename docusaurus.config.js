@@ -88,11 +88,11 @@ module.exports = {
                 href: 'https://vocab.js.org',
               },
               {
-                label: 'TL:DR News',
+                label: 'TLDR News',
                 href: 'https://tldr.palashsh.me/'
               },
               {
-                label : "hacker's chat",
+                label : "hackers chat",
                 href : 'http://chat.palashsh.me/',
                 icon: ''
               }
