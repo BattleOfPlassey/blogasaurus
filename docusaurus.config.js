@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Blogasaurus',
   tagline: 'A blog by Palash Shrivastava',
-  url: 'https://battleofplassey.github.io/',
-  baseUrl: '/blogasaurus/',
+  url: 'blog.palashsh.me',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -15,10 +15,10 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'Blogasaurus',
+      title: 'BLOGASAURUS',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/palash_about-removebg-preview.png',
+        src: 'img/rex-03.svg',
       },
       items: [
         // {
@@ -37,6 +37,10 @@ module.exports = {
     },
     footer: {
       style: 'dark',
+      // logo: {
+      //   alt: 'My Site Logo',
+      //   src: 'rex-03.png'
+      // },
       links: [
         // {
         //   title: 'Docs',
@@ -53,6 +57,10 @@ module.exports = {
             {
               label: 'Twitter',
               href: 'https://twitter.com/battleofplassey',
+            },
+            {
+              label: 'Instagram',
+              href: 'https://instagram.com/palash_alphas',
             }
           ],
         },
@@ -67,8 +75,30 @@ module.exports = {
               label: 'GitHub',
               href: 'https://github.com/battleofplassey',
             },
-          ],
-        },
+          ]},
+          {
+            title: 'Projects',
+            items: [
+              {
+                label: 'SidToons',
+                href: 'https://sidtoons.com',
+              },
+              {
+                label: 'vocab.js.org',
+                href: 'https://vocab.js.org',
+              },
+              {
+                label: 'TL;DR News',
+                href: 'https://tldr.palashsh.me/'
+              },
+              {
+                label : "<hacker's chat'>",
+                href : 'http://chat.palashsh.me/',
+                icon: ''
+              }
+            ],
+          },
+        
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Blogasaurus by Palash Shrivastava`,
     },
