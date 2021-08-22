@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[396],{3392:function(a){a.exports=JSON.parse('{"allTagsPath":"/blogasaurus/tags","slug":"awa","name":"awa","count":4,"permalink":"/blogasaurus/tags/awa"}')}}]);

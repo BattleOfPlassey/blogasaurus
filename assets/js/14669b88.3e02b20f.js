@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[11],{8704:function(a){a.exports=JSON.parse('{"allTagsPath":"/blogasaurus/tags","slug":"fundamentals","name":"fundamentals","count":1,"permalink":"/blogasaurus/tags/fundamentals"}')}}]);

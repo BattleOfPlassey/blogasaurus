@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[817],{5256:function(a){a.exports=JSON.parse('{"allTagsPath":"/blogasaurus/tags","slug":"android","name":"android","count":1,"permalink":"/blogasaurus/tags/android"}')}}]);
