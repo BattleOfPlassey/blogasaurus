@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Blogasaurus',
   tagline: 'A blog by Palash Shrivastava',
-  url: 'blog.palashsh.me',
+  url: 'https://blog.palashsh.me/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
