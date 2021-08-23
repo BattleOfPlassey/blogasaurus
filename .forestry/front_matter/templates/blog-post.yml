@@ -27,12 +27,14 @@ fields:
   default: https://avatars.githubusercontent.com/u/35087196?v=4
 - name: tags
   type: tag_list
-  default: [blog]
+  default:
+  - blog
   label: tags
   description: Tags to be used in blog
 - name: keywords
   type: tag_list
-  default: [blog]
+  default:
+  - blog
   label: tags
   description: Keywords to be indexed by Search Engines
 - type: text
