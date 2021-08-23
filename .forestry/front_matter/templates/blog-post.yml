@@ -51,5 +51,3 @@ fields:
   label: hide_table_of_contents?
   description: hide_table_of_contents
   default: true
-pages:
-- blog/what-is-lorem-ipsum.md
