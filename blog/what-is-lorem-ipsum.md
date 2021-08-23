@@ -7,8 +7,8 @@ id: lorem-ipsum
 title: What is Lorem Ipsum?
 author: Palash Shrivastava
 author_title: Owner
-author_url: ''
-author_image_url: ''
+author_url: https://github.com/battleofplassey
+author_image_url: https://avatars.githubusercontent.com/u/35087196?v=4
 draft: false
 
 ---
