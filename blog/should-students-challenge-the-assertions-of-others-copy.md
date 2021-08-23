@@ -1,5 +1,5 @@
 ---
-slug: challenge-assertion
+slug: get-some
 title: Should students challenge the assertions of others?-(copy)
 author: Palash Shrivastava
 author_title: Owner
@@ -25,12 +25,63 @@ hide_table_of_contents: false
 image: "/img/palash_about-removebg-preview.png"
 
 ---
-Too much emphasis has been placed on the need for students to challenge the assertions of others. <!--truncate-->Some say social harmony should be the goal of every school. It is erroneous to place an overemphasis on either side as I believe that it is essential to promote a healthy balance between the two.
+## Where can I get some?
 
-As we move away from traditional ways of learning, more students are being encouraged to raise questions and challenge the assertions of others in order to test and validate established facts as well as deepen their understanding of the subject matter. During older times, especially during the times when religious institutions were the primary source of education, students were taught to accept facts without questioning much, which led to a decay of the intellect, as proved in many instances in history.
+. <!--truncate-->Where does it come from?
 
-Questioning and challenging the assertions of others has proven to be effective in the process of learning. Questioning is one of the oldest forms of learning. From the philosophical form of inquiry preached by Socrates to the intellectual revolution of the Renaissance era, it is very obvious that independent thought and ideas are essential for making new discoveries and progress, and schools should not promote a curriculum that impedes this. However, how much is considered too much? Placing an emphasis for students to challenge the assertions of others can promote critical thinking, deeper understanding and competition. Too much emphasis on it can impede the process of learning and foster unhealthy competition between the students and the teachers, which, as implied by the topic statement, could affect social harmony adversely.
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-On the other hand, students should practice moderation in challenging the assertions of their peers and teachers. Established facts and information that are provided in educational institutions are the product of the discoveries made by our forefathers, which have been tested and proven at one time. A student should learn the basic tenets of academic disciplines before challenging and questioning unnecessarily. How can the student debate the complex ideas and proven theories if the student does not even have the basic knowledge of the subject matter? Also, it is undeniable that the ability and compromise and work with others is an important aspect in the process of learning. The synergy of teamwork is beneficial to a conducive learning atmosphere. As the saying goes, “Two heads are better than one.” If too much time is spent on debating and questioning , no work would get done, ill feelings would be fostered and as a result no progress would be made. Therefore, schools should make a healthy balance of debate and compromise as a major goal.
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
-In conclusion, I do not believe that the ability to achieve social harmony should be the major goal of all schools. Schools should seek to promote a fine balance between encouraging their students to challenge assertions and their ability to compromise and work together.
+## Where can I get some?
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+| --- | --- | --- | --- |
+|  | paragraphswordsbyteslists |  | Start with 'Loremipsum dolor sit amet...' |
+|  |  |
+
+  
+Where does it come from?
+
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+## Where can I get some?
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+| --- | --- | --- | --- |
+|  | paragraphswordsbyteslists |  | Start with 'Loremipsum dolor sit amet...' |
+|  |  |
+
+  
+Where does it come from?
+
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+## Where can I get some?
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+| --- | --- | --- | --- |
+|  | paragraphswordsbyteslists |  | Start with 'Loremipsum dolor sit amet...' |
+|  |  |
+
+  
+Where does it come from?
+
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+## Where can I get some?
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+| --- | --- | --- | --- |
+|  | paragraphswordsbyteslists |  | Start with 'Loremipsum dolor sit amet...' |
+|  |  |
