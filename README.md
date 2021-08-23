@@ -1,10 +1,14 @@
 # Blogasaurus
 
-This blog is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+- This blog is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
+- Content is managed by [forestry.io](https://forestry.io/), a Git-backed CMS (content management system) for websites.
+- Hosted on [GitHub pages](https://blog.palashsh.me)
 
 ## Installation
 
 ```console
+git clone git@github.com:BattleOfPlassey/blogasaurus.git
+cd <repo_name>
 yarn install
 ```
 

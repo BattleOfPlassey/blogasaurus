@@ -14,6 +14,15 @@ module.exports = {
   projectName: 'blogasaurus', // Usually your repo name.
   trailingSlash: false,
   themeConfig: {
+    gtag: {
+      trackingID: "G-R5V7R63B0J",
+    },
+    announcementBar: {
+      id: "support_us",
+      backgroundColor: '#fafbfc',
+      textColor: '#091E42',
+      content: `⭐️  &nbsp; If you like this blog, follow me on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/battleofplassey">Twitter</a>! &nbsp; ⭐️`,
+    },
     navbar: {
       hideOnScroll: true,
       title: 'Blogasaurus',
