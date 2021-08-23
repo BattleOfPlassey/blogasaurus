@@ -4,28 +4,41 @@ hide_body: false
 display_field: title
 fields:
 - type: text
-  name: id
-  label: id
+  name: slug
+  label: Slug
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: author
-  label: author
+  label: Author
+  default: Palash Shrivastava
 - type: text
   name: author_title
   label: author_title
+  default: Owner
 - type: text
   name: author_url
   label: author_url
+  default: https://github.com/battleofplassey
 - type: text
   name: author_image_url
   label: author_image_url
+  default: https://avatars.githubusercontent.com/u/35087196?v=4
 - name: tags
   type: tag_list
-  default: []
+  default: [blog]
   label: tags
   description: Tags to be used in blog
+- name: keywords
+  type: tag_list
+  default: [blog]
+  label: tags
+  description: Keywords to be indexed by Search Engines
+- type: text
+  name: description
+  label: Description to be used in SEO
+  default: Blog By Palash Shrivastava
 - name: draft
   type: boolean
   label: Is draft?
