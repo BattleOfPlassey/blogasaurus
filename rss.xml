@@ -4,17 +4,10 @@
         <title>Blogasaurus Blog</title>
         <link>https://blog.palashsh.me/</link>
         <description>Blogasaurus Blog</description>
-        <lastBuildDate>Mon, 23 Aug 2021 20:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 Blogasaurus by Palash Shrivastava</copyright>
-        <item>
-            <title><![CDATA[What is Lorem Ipsum?]]></title>
-            <link>https://blog.palashsh.me/lorem-ipsum2</link>
-            <guid>lorem-ipsum2</guid>
-            <pubDate>Mon, 23 Aug 2021 20:09:24 GMT</pubDate>
-            <description><![CDATA[Blog By Palash Shrivastava]]></description>
-        </item>
         <item>
             <title><![CDATA[Does conformity stifles creativity ?]]></title>
             <link>https://blog.palashsh.me/conformity-stifles-creativity</link>
