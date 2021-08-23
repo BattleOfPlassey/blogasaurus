@@ -25,3 +25,14 @@ fields:
   type: tag_list
   default: []
   label: tags
+  description: Tags to be used in blog
+- name: draft
+  type: boolean
+  label: Is draft?
+  description: Mark this as draft
+  default: false
+- name: hide_table_of_contents
+  type: boolean
+  label: hide_table_of_contents?
+  description: hide_table_of_contents
+  default: true
