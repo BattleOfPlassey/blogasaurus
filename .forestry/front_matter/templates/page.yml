@@ -1,0 +1,13 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: id
+  label: id
+- type: text
+  name: title
+  label: title
+- type: text
+  name: sidebar_label
+  label: sidebar_label

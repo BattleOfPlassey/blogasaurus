@@ -1,0 +1,27 @@
+---
+label: Blog post
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: id
+  label: id
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: text
+  name: author_title
+  label: author_title
+- type: text
+  name: author_url
+  label: author_url
+- type: text
+  name: author_image_url
+  label: author_image_url
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
