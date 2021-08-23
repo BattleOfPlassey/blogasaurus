@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6405],{3909:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"lorem-ipsum","name":"lorem-ipsum","count":2,"permalink":"/tags/lorem-ipsum"}')}}]);
