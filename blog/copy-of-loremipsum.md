@@ -14,9 +14,9 @@ keywords:
 - lorem-ipsum
 description: Blog By Palash Shrivastava
 hide_table_of_contents: true
-slug: lorem-ipsum2
+slug: lorem-ipsum3
 title: Copy of loremipsum
-draft: false
+draft: true
 
 ---
 The standard Lorem Ipsum passage, used since the 1500s<!--truncate-->
