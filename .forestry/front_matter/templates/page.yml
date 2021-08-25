@@ -11,3 +11,5 @@ fields:
 - type: text
   name: sidebar_label
   label: sidebar_label
+pages:
+- docs/lorem-ipsum-titile.md
