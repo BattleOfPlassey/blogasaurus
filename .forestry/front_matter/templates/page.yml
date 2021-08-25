@@ -5,11 +5,19 @@ fields:
 - type: text
   name: id
   label: id
+  description: used to identify doc
+
 - type: text
   name: title
   label: title
+  description: Will be used as heading and filename of md file
 - type: text
   name: sidebar_label
   label: sidebar_label
+  description: to be displayed in sidebar text
+
+- type: number
+  name: sidebar_position
+  label: sidebar_position
 pages:
 - docs/lorem-ipsum-titile.md

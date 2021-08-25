@@ -17,11 +17,24 @@ module.exports = {
     gtag: {
       trackingID: "G-R5V7R63B0J",
     },
+    metadatas: [
+      {
+        property: 'og:image',
+        content: 'https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/3246b6c648c9faa671fbaa32aff3db7e177321e9/static/rex-03.png',
+      },
+      {name: 'twitter:card', content: 'summary_large_image'},
+      {
+        name: 'twitter:image',
+        content: 'https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/3246b6c648c9faa671fbaa32aff3db7e177321e9/static/rex-03.png',
+      },
+      {name: 'twitter:site', content: '@battleofplassey'},
+    ],
     announcementBar: {
       id: "support_us",
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
-      content: `⭐️  &nbsp; If you like this blog, follow me on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/battleofplassey">Twitter</a>! &nbsp; ⭐️`,
+     content: `If you like this blog, please follow us on <a href="https://twitter.com/intent/follow?screen_name=battleofplassey&amp;region=follow_link" class="twitter-follow-button"><div class="icon"></div>@battleofplassey</a>`
+      // content: `⭐️  &nbsp; If you like this blog, follow me on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/battleofplassey">Twitter</a>! &nbsp; ⭐️`,
     },
     navbar: {
       hideOnScroll: true,
@@ -33,12 +46,12 @@ module.exports = {
       items: [
         // {to: '/', label: 'Blog', position: 'left'},
 
-        // {
-        //   type: 'doc',
-        //   docId: 'intro',
-        //   position: 'left',
-        //   label: 'Articles',
-        // },
+        {
+          type: 'doc',
+          docId: 'whoami',
+          position: 'right',
+          label: 'Articles',
+        },
         {
           href: 'https://github.com/battleofplassey',
           position: 'right',
@@ -89,7 +102,7 @@ module.exports = {
             },
           ]},
           {
-            title: 'Projects',
+            title: 'other Projects',
             items: [
               {
                 label: 'SidToons.com',
