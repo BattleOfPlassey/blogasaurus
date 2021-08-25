@@ -27,8 +27,8 @@ module.exports = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Tutorial',
-      items: ['whoami','whoami-copy']
+      label: 'Introduction',
+      items: ['whoami']
     },
   ]
 };
