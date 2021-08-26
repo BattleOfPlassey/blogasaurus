@@ -1,5 +1,5 @@
 ---
-id: Favorite Quotes
+id: favorite-quotes
 title: Favorite Quotes
 sidebar_label: Favorite Quotes
 sidebar_position: 2

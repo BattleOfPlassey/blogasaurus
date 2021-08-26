@@ -156,4 +156,14 @@ div[class^=announcementBarContent] {
     margin-bottom: 24px;
     text-align: center;
  }
+
+ h2 {
+  font-size: 1.5rem!important;
 }
+h1 {
+  font-size: 1.5rem!important;
+}
+}
+
+
+
