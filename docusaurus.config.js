@@ -22,7 +22,7 @@ module.exports = {
         property: 'og:image',
         content: 'https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/3246b6c648c9faa671fbaa32aff3db7e177321e9/static/rex-03.png',
       },
-      {name: 'twitter:card', content: 'summary_large_image'},
+      {name: 'twitter:card', content: 'https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/3246b6c648c9faa671fbaa32aff3db7e177321e9/static/rex-03.png'},
       {
         name: 'twitter:image',
         content: 'https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/3246b6c648c9faa671fbaa32aff3db7e177321e9/static/rex-03.png',
@@ -33,7 +33,7 @@ module.exports = {
       id: "support_us",
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
-     content: `If you like this blog, please follow us on <a href="https://twitter.com/intent/follow?screen_name=battleofplassey&amp;region=follow_link" class="twitter-follow-button"><div class="icon"></div>@battleofplassey</a>`
+     content: `If you like what you see, follow me <a href="https://twitter.com/intent/follow?screen_name=battleofplassey&amp;region=follow_link" class="twitter-follow-button"><div class="icon"></div>@battleofplassey</a>`
       // content: `⭐️  &nbsp; If you like this blog, follow me on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/battleofplassey">Twitter</a>! &nbsp; ⭐️`,
     },
     navbar: {
@@ -67,15 +67,7 @@ module.exports = {
       //   src: 'rex-03.png'
       // },
       links: [
-        // {
-        //   title: 'Docs',
-        //   items: [
-        //     {
-        //       label: 'Tutorial',
-        //       to: '/docs/intro',
-        //     },
-        //   ],
-        // },
+      
         {
           title: 'Social',
           items: [
@@ -97,8 +89,19 @@ module.exports = {
               to: '/',
             },
             {
+              label: 'Articles',
+              to: '/docs/whoami',
+            },
+            {
               label: 'GitHub',
               href: 'https://github.com/battleofplassey',
+            },
+            {
+              html: `
+                <a href="https://app.travis-ci.com/github/BattleOfPlassey/blogasaurus" target="_blank" rel="noreferrer noopener" aria-label="Build by Travis CI">
+                  <img src="https://api.travis-ci.com/BattleOfPlassey/blogasaurus.svg?branch=master" alt="Build by Travis CI" />
+                </a>
+              `,
             },
           ]},
           {
