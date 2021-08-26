@@ -1,7 +1,7 @@
 ---
-id: favorite-quotes
-title: Favorite Quotes
-sidebar_label: Favorite Quotes
+id: favourite-quotes
+title: Favourite Quotes
+sidebar_label: Favourite Quotes
 sidebar_position: 2
 
 ---
