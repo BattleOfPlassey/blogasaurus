@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[909],{1689:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/fundamentals","name":"fundamentals","count":1,"permalink":"/tags/fundamentals"}')}}]);
