@@ -30,3 +30,8 @@ git stash
 git apply ParallexPatch
 git stash
 ```
+
+### GIT add all and commit in 1 line
+```bash
+git commit -am "add all and commit"
+``` 
