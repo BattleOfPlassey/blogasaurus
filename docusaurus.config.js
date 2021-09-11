@@ -33,15 +33,15 @@ module.exports = {
       id: "support_us",
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
-     content: `If you like what you see, follow me <a href="https://twitter.com/intent/follow?screen_name=battleofplassey&amp;region=follow_link" class="twitter-follow-button"><div class="icon"></div>@battleofplassey</a>`
+     content: `If you like what you see, follow me on <a href="https://twitter.com/intent/follow?screen_name=battleofplassey&amp;region=follow_link" class="twitter-follow-button"><div class="icon"></div>@battleofplassey</a>`
       // content: `⭐️  &nbsp; If you like this blog, follow me on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/battleofplassey">Twitter</a>! &nbsp; ⭐️`,
     },
     navbar: {
       hideOnScroll: true,
-      title: 'Blogasaurus',
+      // title: 'Blogasaurus',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/rex-03.svg',
+        alt: 'Blogasaurus Logo',
+        src: 'img/blogasaurus_primary.svg',
       },
       items: [
         // {to: '/', label: 'Blog', position: 'left'},
@@ -49,7 +49,7 @@ module.exports = {
         {
           type: 'doc',
           docId: 'whoami',
-          position: 'right',
+          position: 'left',
           label: 'Articles',
         },
         {
@@ -62,10 +62,10 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      // logo: {
-      //   alt: 'My Site Logo',
-      //   src: 'rex-03.png'
-      // },
+      logo: {
+        alt: 'My Site Logo',
+        src: 'img/blogasaurus_secondary.svg'
+      },
       links: [
       
         {

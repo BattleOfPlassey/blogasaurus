@@ -7,13 +7,21 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+
+ --ifm-color-primary: #3dcd5d;
+--ifm-color-primary-dark: #31be50;
+--ifm-color-primary-darker: #2eb44c;
+--ifm-color-primary-darkest: #26943f;
+--ifm-color-primary-light: #52d26f;
+--ifm-color-primary-lighter: #5dd577;
+--ifm-color-primary-lightest: #7cdd92; 
+  /* --ifm-color-primary: #36aed1;
+  --ifm-color-primary-dark: #2c9fc1;
+  --ifm-color-primary-darker: #2a96b6;
+  --ifm-color-primary-darkest: #227c96;
+  --ifm-color-primary-light: #4bb7d6;
+  --ifm-color-primary-lighter: #56bbd8;
+  --ifm-color-primary-lightest: #76c8e0; */
   --ifm-code-font-size: 95%;
 }
 
@@ -75,10 +83,12 @@ div[class^=announcementBarContent] a {
 
 div[class^=announcementBarContent] {
 
-  /* font-size: 20px;
-  font-weight: 700;
-  line-height: 40px;*/
+  /* font-size: 20px; */
+  /* font-weight: 700; */
+  /* line-height: 0px; */
   /* padding: 8px;   */
+  /* line-height: 40px; */
+    padding: 0px 0px;
 }
 
 .twitter-follow-button .icon {
@@ -165,5 +175,16 @@ h1 {
 }
 }
 
+.navbar .navbar__item.navbar__link {
+  font-size: 18px;
+  /* font-weight: 300; */
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+html[data-theme='dark'] .navbar .navbar__logo {
+  content: url(img/blogasaurus_secondary.svg)
+  }
 
 
