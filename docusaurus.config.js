@@ -20,12 +20,12 @@ module.exports = {
     metadatas: [
       {
         property: 'og:image',
-        content: 'https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/3246b6c648c9faa671fbaa32aff3db7e177321e9/static/rex-03.png',
+        content: 'https://avatars.githubusercontent.com/u/35087196?v=4',
       },
-      {name: 'twitter:card', content: 'https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/3246b6c648c9faa671fbaa32aff3db7e177321e9/static/rex-03.png'},
+      {name: 'twitter:card', content: 'https://avatars.githubusercontent.com/u/35087196?v=4'},
       {
         name: 'twitter:image',
-        content: 'https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/3246b6c648c9faa671fbaa32aff3db7e177321e9/static/rex-03.png',
+        content: 'https://avatars.githubusercontent.com/u/35087196?v=4',
       },
       {name: 'twitter:site', content: '@battleofplassey'},
     ],
