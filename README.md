@@ -1,4 +1,4 @@
-![Blogasaurus-logo](https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/master/static/img/blogasaurus_primary.svg)
+![Blogasaurus-logo](https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/master/static/img/blogasaurus_dark.svg)
 
 [![Build Status](https://app.travis-ci.com/BattleOfPlassey/blogasaurus.svg?branch=master)](https://app.travis-ci.com/BattleOfPlassey/blogasaurus)
 ### [Live Demo](https://blog.palashsh.me)
