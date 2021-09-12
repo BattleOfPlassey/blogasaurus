@@ -134,6 +134,12 @@ module.exports = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
+    algolia: {
+      apiKey: '3534e2d1d881a10081025373d8f2375c',
+      indexName: 'dev-blog',
+      appId: '2KDKKFPT4A',
+      placeholder: 'Search...'
+    },
   },
   presets: [
     [
