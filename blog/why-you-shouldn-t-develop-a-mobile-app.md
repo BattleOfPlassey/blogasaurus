@@ -21,19 +21,19 @@ keywords:
 description: Blog By Palash Shrivastava
 hide_table_of_contents: false
 slug: why-mobile-app
-title: Why You Shouldn't Develop a Mobile App
+title: Why You Should Not Develop a Mobile App
 draft: true
 
 ---
-Don't get me wrong, I love mobile apps! I create them, I work closely with a React Native development team and we develop iOS app for internal business usage. Also I spend a lot of time on my phone. And I want to share my observations so you don’t spend a lot of time and money building an app that doesn’t advance your business goals (or may even hurt them).
+Don't get me wrong, I love mobile apps! I create them, I work closely with a React Native development team and we develop iOS apps for internal business users. Also, I spend a lot of time on my phone. And I want to share my observations so you don’t spend a lot of time and money building an app that doesn’t advance your business goals (or may even hurt them).
 
 Let’s start with some challenges.
 
-##### 1. A cheap app damages your brand
+##### 1. A bad app damages your brand
 
-A cheap app performs poorly, feels clunky, and frustrates user every time they use it. **If you can’t or won’t spend the money to do it right, don’t build a mobile app**.
+A cheap app performs poorly, feels bulky, and frustrates user every time they use it. **If you can’t or won’t spend the money to do it right, don’t build a mobile app**.
 
-##### 2. A useless app doesn’t grow your brand
+##### 2. A not so useful app doesn’t grow your brand
 
 Let’s say you create an app, and while it is beautiful and easy to use, it’s also useless. That sounds harsh. What I mean is, the functions it provides are not ones that users need or will want to take on their phone.
 
@@ -41,7 +41,7 @@ Let’s say you create an app, and while it is beautiful and easy to use, it’s
 
 ##### 3. The competition is tough
 
-The final question to answer before creating a mobile app is, “Who am I competing against?” The answer is _not_ the companies that are in your product market. The answer is _every other mobile app_. If someone is on another app, they’re not in yours. So your competitors are Instagram, Facebook, YouTube, Mail, Text, Maps and even the calendar app.
+The final question to answer before creating a mobile app is, “Who is my competition?” The answer is _not_ the companies that are in your product market. The answer is _every other mobile app_. If someone is on another app, they’re not in yours. So your competitors are Instagram, Facebook, YouTube, Mail, Text, Maps and even the calendar app.
 
 That’s what you have to fight. If you’re not the reason the user is pulling out their phone, then your app is never going to be opened, and eventually, it will get uninstalled.
 
