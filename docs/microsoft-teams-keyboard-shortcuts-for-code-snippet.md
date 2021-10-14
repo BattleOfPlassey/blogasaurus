@@ -2,7 +2,7 @@
 id: teams-tips-tricks
 title: Microsoft Teams Keyboard Shortcuts for Code Snippet
 sidebar_label: Microsoft Teams Tricks
-sidebar_position: 
+sidebar_position: 0
 
 ---
 Microsoft Teams Keyboard Shortcuts for Code Snippet
