@@ -5,12 +5,6 @@ sidebar_label: Favourite Quotes
 sidebar_position: 2
 
 ---
-> If you want to be happy, set a goal that commands your thoughts,  
-> liberates your energy, and inspires your hopes.
-
-> A little nonsense now and then is relished by the wisest people.
-> \-Roald Dahl
-
 > Numbers do not lie. Politics, poetry, promises, these are lies. Numbers are the closest we get to the handwriting of god.
 
 > Hard times create strong men, strong men create good times, good times create weak men, and weak men create hard times.
