@@ -17,4 +17,4 @@ sidebar_position: 2
 
 > A goal without a plan is just a wish.
 
-> Nowhere's safe now. You can't run from the world. You can't hide from it. But you can find power and purpose. A chance to survive the horror.
+> The world outside these walls is a dangerous place. Nowhere's safe now. You can't run from the world. You can't hide from it. But you can find power and purpose. A chance to survive the horror.
