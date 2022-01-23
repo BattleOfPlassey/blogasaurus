@@ -96,13 +96,6 @@ module.exports = {
               label: 'GitHub',
               href: 'https://github.com/battleofplassey',
             },
-            {
-              html: `
-                <a href="https://app.travis-ci.com/github/BattleOfPlassey/blogasaurus" target="_blank" rel="noreferrer noopener" aria-label="Build by Travis CI">
-                  <img src="https://api.travis-ci.com/BattleOfPlassey/blogasaurus.svg?branch=master" alt="Build by Travis CI" />
-                </a>
-              `,
-            },
           ]},
           {
             title: 'other Projects',
