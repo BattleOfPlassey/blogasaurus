@@ -16,4 +16,4 @@ docker run -it --env-file=.env -e "CONFIG=$(cat config.json | jq -r tostring)" a
 ```
 
 ## WIP 🚧
-- Email newsletter.
+- Email news-letter.

@@ -16,3 +16,5 @@ sidebar_position: 2
 > The more you learn, The less time it will take to learn even more.[ - Sushant Singh Rajput](https://twitter.com/hashtag/SushantSinghRajput?src=hashtag_click)
 
 > A goal without a plan is just a wish.
+
+> The world outside these walls is a dangerous place. Nowhere's safe now. You can't run from the world. You can't hide from it. But you can find power and purpose. A chance to survive the horror.
