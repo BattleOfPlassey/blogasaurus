@@ -1,7 +1,7 @@
 ![Blogasaurus-logo](https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/master/static/img/blogasaurus_dark.svg)
 
 [![Build Status](https://app.travis-ci.com/BattleOfPlassey/blogasaurus.svg?branch=master)](https://app.travis-ci.com/BattleOfPlassey/blogasaurus)
-### [Live Demo](https://blog.palashsh.me)
+### [Link](https://blog.palashsh.me)
 
 ## Features
 - Personal blog built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
