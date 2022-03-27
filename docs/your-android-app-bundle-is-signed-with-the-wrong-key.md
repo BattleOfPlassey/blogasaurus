@@ -21,8 +21,7 @@ Here are the steps I followed to fix this:
 
 Finally, Quit the prompt.
 
-2. Execute the following command to generate an upload certificate(.pem file) from downloaded keystore file(.jks) from expo servers.
+1. Execute the following command to generate an upload certificate(.pem file) from downloaded Keystore file(.jks) from expo servers.
 
-       keytool -export -rfc -alias <—YOUR ALIAS KEY HERE—> -file <upload_certificate.pem> -keystore <keystore file here>.jks
-
-3. Share the PEM file with Google Support, requesting them to update it with the new PEM file. Google will take approximately 3 days to update and intimate you over email when the Keystore is ready to become usable.
+       keytool -export -rfc -alias YOUR-ALIAS-HERE -file upload_certificate.pem -keystore YOUR_KEY_STORE_FILE.jks
+2. Share the PEM file with Google Support, requesting them to update it with the new PEM file. Google will take approximately 3 days to update and intimate you over email when the Keystore is ready to become usable.
