@@ -7,19 +7,23 @@ sidebar_position: 4
 ---
 I’ve just built an aab bundle from expo, and I’m receiving this error when uploading the aab bundle onto the play store:
 
-> Your Android App Bundle is signed with the wrong key. Ensure that your App Bundle is signed with the correct signing key and try again: —MY SHA KEY HERE—
+> Your Android App Bundle is signed with the wrong key. Ensure that your App Bundle is signed with the correct signing key and try again
 
-eas credentials
+Here are the steps I followed to fix this:
+
+1. Download the upload certificate from expo servers. Execute the below command on the project directory and follow the prompt below
+
+       eas credentials
 
 √ What do you want to do? » Download Keystore from the Expo servers
 
-√ What do you want to do? » Download existing keystore
+√ What do you want to do? » Download existing Keystore
 
-Quit
+Finally, Quit the prompt.
 
-keytool -export -rfc -alias <—MY ALIAS KEY HERE—> -file <upload_certificate.pem> -keystore <keystore file here>.jks
+2. Execute the following command to generate an upload certificate(.pem file) from downloaded keystore file(.jks) from expo servers.
 
-I have resolved the problem.  
-My approach: Download the upload certificate from expo servers, and share the same with the Google Support, requesting them to update with the new PEM file.
+    keytool -export -rfc -alias <—YOUR ALIAS KEY HERE—> -file <upload_certificate.pem> -keystore <keystore file here>.jks
 
-eas submit -p android --latest
+  
+3\. Share the PEM file with Google Support, requesting them to update it with the new PEM file. Google will take approximately 3 days to update and intimate you over email when the Keystore is ready to become usable.
