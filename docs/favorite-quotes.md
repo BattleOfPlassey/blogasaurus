@@ -18,3 +18,5 @@ sidebar_position: 2
 > A goal without a plan is just a wish.
 
 > The world outside these walls is a dangerous place. Nowhere's safe now. You can't run from the world. You can't hide from it. But you can find power and purpose. A chance to survive the horror.
+
+> By the sweat of our brow and the strength of our backs and the courage in our hearts! Gentlemen, hoist the colors.
