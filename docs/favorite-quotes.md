@@ -22,3 +22,5 @@ sidebar_position: 2
 > By the sweat of our brow and the strength of our backs and the courage in our hearts! Gentlemen, hoist the colors.
 
 > The way we treat our future self is not necessarily negative: Since we think of our future self as someone else, our own decision making reflects how we treat other people.
+
+> Familiarity breeds a lack of discipline
