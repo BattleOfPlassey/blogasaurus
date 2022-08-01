@@ -53,4 +53,5 @@ fields:
   default: true
 pages:
 - blog/essential-tools-i-use-on-mac.md
+- blog/git-tricks-i-think-everyone-should-know.md
 - blog/why-you-shouldn-t-develop-a-mobile-app.md
