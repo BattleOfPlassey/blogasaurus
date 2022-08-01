@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.palashsh.me/</id>
     <title>Blogasaurus Blog</title>
-    <updated>2022-08-01T09:02:34.453Z</updated>
+    <updated>2022-08-01T09:09:59.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.palashsh.me/"/>
     <subtitle>Blogasaurus Blog</subtitle>
@@ -12,7 +12,7 @@
         <title type="html"><![CDATA[Essential Tools I use on Mac]]></title>
         <id>essential-tools-for-mac</id>
         <link href="https://blog.palashsh.me/essential-tools-for-mac"/>
-        <updated>2022-08-01T09:02:34.453Z</updated>
+        <updated>2022-08-01T09:09:59.452Z</updated>
         <summary type="html"><![CDATA[Blog By Palash Shrivastava]]></summary>
         <author>
             <name>Palash Shrivastava</name>
@@ -23,7 +23,7 @@
         <title type="html"><![CDATA[GIT tricks I think everyone should know]]></title>
         <id>git-tricks</id>
         <link href="https://blog.palashsh.me/git-tricks"/>
-        <updated>2022-08-01T09:02:34.453Z</updated>
+        <updated>2022-08-01T09:09:59.452Z</updated>
         <summary type="html"><![CDATA[Blog By Palash Shrivastava]]></summary>
         <author>
             <name>Palash Shrivastava</name>
@@ -34,7 +34,7 @@
         <title type="html"><![CDATA[Why You Should Not Develop a Mobile App]]></title>
         <id>why-mobile-app</id>
         <link href="https://blog.palashsh.me/why-mobile-app"/>
-        <updated>2022-08-01T09:02:34.453Z</updated>
+        <updated>2022-08-01T09:09:59.452Z</updated>
         <summary type="html"><![CDATA[Blog By Palash Shrivastava]]></summary>
         <author>
             <name>Palash Shrivastava</name>
