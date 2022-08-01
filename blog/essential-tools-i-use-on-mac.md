@@ -23,4 +23,4 @@ draft: false
 
        brew install --cask firefox chrome postman dbeaver
 
-    With Above command we can install any [software](https://formulae.brew.sh/) in one go
+   With Above command we can install any [software](https://formulae.brew.sh/) in one go
