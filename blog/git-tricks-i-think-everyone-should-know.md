@@ -20,6 +20,8 @@ title: GIT tricks I think everyone should know
 draft: false
 
 ---
+<!--truncate-->
+
 ### 1. Moving or Migrating GIT stashes from old computer to new.
 
 * First, List all your stashes.

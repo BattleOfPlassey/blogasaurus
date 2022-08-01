@@ -27,6 +27,8 @@ draft: false
 ---
 Don't get me wrong, I love mobile apps! I create them, I work closely with a React Native development team and we develop iOS apps for internal business users. Also, I spend a lot of time on my phone. And I want to share my observations so you don’t spend a lot of time and money building an app that doesn’t advance your business goals (or may even hurt them).
 
+<!--truncate-->
+
 Let’s start with some challenges.
 
 ##### 1. A bad app damages your brand
