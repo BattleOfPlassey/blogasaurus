@@ -54,7 +54,7 @@ git apply ParallexPatch
 git stash
 ```
 
-### 2. GIT add all and commit in 1 line
+### 3. GIT add all and commit in 1 line
 
 ```bash
 git commit -am "add all and commit"
