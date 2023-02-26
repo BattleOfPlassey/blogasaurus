@@ -22,8 +22,11 @@ draft: true
 ---
 Ever since i got lucky and got my hands-on on my first PlayStation, there is no stopping me. Here are my top 5 PS5/4 games ranked accordingly
 
-1. Ghost of Tshushima
-2. God Of War 2018
-3. Spiderman
-4. Uncharted 4: A thief's end
-5. Returnal
+1. Returnal
+2. Ghost of Tshushima
+3. God Of War 2018
+4. Spiderman
+5. Uncharted 4: A thief's end
+6. Spiderman Miles Morales
+7. God Of War Ragnarok
+8. The Last of us
