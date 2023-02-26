@@ -77,7 +77,7 @@ module.exports = {
             },
             {
               label: 'Instagram',
-              href: 'https://instagram.com/palash_alphas',
+              href: 'https://instagram.com/battleofplassey',
             }
           ],
         },
