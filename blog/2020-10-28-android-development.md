@@ -7,7 +7,7 @@ author_url: https://github.com/battleofplassey
 author_image_url: https://avatars.githubusercontent.com/u/35087196?v=4
 tags: [android, development, fundamentals]
 keywords: [android, development, fundamentals, technology]
-draft: false
+draft: true
 description: The Android operating system is a multi-user Linux system in which each app is a different user.
 hide_table_of_contents: false
 image: /img/palash_about-removebg-preview.png

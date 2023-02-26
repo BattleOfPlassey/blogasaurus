@@ -18,6 +18,7 @@ title: Essential Tools I use on Mac
 draft: true
 
 ---
+<!--truncate-->
 1. [Maccy](https://github.com/p0deje/Maccy) is a lightweight clipboard manager for macOS and lifesaver tool for me. It keeps the history of what you copy and lets you quickly navigate, search, and use previous clipboard contents.
 
    ![](/img/screenshot-2022-08-03-at-11-19-25-am.png)
@@ -26,5 +27,4 @@ draft: true
 ```bash
 brew install --cask firefox chrome postman dbeaver
 ```
-
-With Above command we can install any [software](https://formulae.brew.sh/) in one go.
+   With Above command we can install any [software](https://formulae.brew.sh/) in one go.
