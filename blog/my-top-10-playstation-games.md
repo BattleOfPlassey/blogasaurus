@@ -15,18 +15,20 @@ keywords:
 - ps5
 description: Blog By Palash Shrivastava
 hide_table_of_contents: false
-slug: top-5-ps-games
-title: My Top 10 PlayStation games
-draft: true
+slug: top-ps-games
+title: My Top PlayStation games
+draft: false
 
 ---
-Ever since i got lucky and got my hands-on on my first PlayStation, there is no stopping me. Here are my top 5 PS5/4 games ranked accordingly
+Here are my top PlayStation exclusive games ranked accordingly
 
 1. Returnal
+
+   <iframe width="100%" height="315" src="[https://www.youtube.com/embed/L9rX8PkdXjg](https://www.youtube.com/embed/L9rX8PkdXjg "https://www.youtube.com/embed/L9rX8PkdXjg")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 2. Ghost of Tshushima
-3. God Of War 2018
-4. Spiderman
-5. Uncharted 4: A thief's end
-6. Spiderman Miles Morales
-7. God Of War Ragnarok
-8. The Last of us
+3. God Of War Ragnarok
+4. God Of War 2018
+5. Spiderman
+6. The Last of us series
+7. Uncharted 4: A thief's end
+8. Spiderman Miles Morales
