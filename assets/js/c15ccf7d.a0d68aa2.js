@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8739],{1748:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/gaming","name":"gaming","count":1,"permalink":"/tags/gaming"}')}}]);

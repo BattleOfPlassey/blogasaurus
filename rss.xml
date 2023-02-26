@@ -4,7 +4,7 @@
         <title>Blogasaurus Blog</title>
         <link>https://blog.palashsh.me/</link>
         <description>Blogasaurus Blog</description>
-        <lastBuildDate>Sun, 26 Feb 2023 08:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 18:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2023 Blogasaurus by Palash Shrivastava</copyright>
@@ -12,14 +12,21 @@
             <title><![CDATA[GIT essentials I think everyone should know]]></title>
             <link>https://blog.palashsh.me/git-tricks</link>
             <guid>git-tricks</guid>
-            <pubDate>Sun, 26 Feb 2023 08:29:24 GMT</pubDate>
+            <pubDate>Sun, 26 Feb 2023 18:03:29 GMT</pubDate>
+            <description><![CDATA[Blog By Palash Shrivastava]]></description>
+        </item>
+        <item>
+            <title><![CDATA[My Top PlayStation games]]></title>
+            <link>https://blog.palashsh.me/top-ps-games</link>
+            <guid>top-ps-games</guid>
+            <pubDate>Sun, 26 Feb 2023 18:03:29 GMT</pubDate>
             <description><![CDATA[Blog By Palash Shrivastava]]></description>
         </item>
         <item>
             <title><![CDATA[Why You Should Not Develop a Mobile App]]></title>
             <link>https://blog.palashsh.me/why-mobile-app</link>
             <guid>why-mobile-app</guid>
-            <pubDate>Sun, 26 Feb 2023 08:29:24 GMT</pubDate>
+            <pubDate>Sun, 26 Feb 2023 18:03:29 GMT</pubDate>
             <description><![CDATA[Blog By Palash Shrivastava]]></description>
         </item>
         <item>
@@ -42,13 +49,6 @@
             <guid>experts-newbie</guid>
             <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Questioning and challenging the assertions of others has proven to be effective in the process of learning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fundamentals of Android Development]]></title>
-            <link>https://blog.palashsh.me/android-part</link>
-            <guid>android-part</guid>
-            <pubDate>Wed, 28 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Android operating system is a multi-user Linux system in which each app is a different user.]]></description>
         </item>
         <item>
             <title><![CDATA[Indicator of a great nation]]></title>
