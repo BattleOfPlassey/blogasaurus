@@ -4,29 +4,22 @@
         <title>Blogasaurus Blog</title>
         <link>https://blog.palashsh.me/</link>
         <description>Blogasaurus Blog</description>
-        <lastBuildDate>Fri, 23 Sep 2022 05:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 08:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2022 Blogasaurus by Palash Shrivastava</copyright>
-        <item>
-            <title><![CDATA[Essential Tools I use on Mac]]></title>
-            <link>https://blog.palashsh.me/essential-tools-for-mac</link>
-            <guid>essential-tools-for-mac</guid>
-            <pubDate>Fri, 23 Sep 2022 05:54:57 GMT</pubDate>
-            <description><![CDATA[Blog By Palash Shrivastava]]></description>
-        </item>
+        <copyright>Copyright © 2023 Blogasaurus by Palash Shrivastava</copyright>
         <item>
             <title><![CDATA[GIT tricks I think everyone should know]]></title>
             <link>https://blog.palashsh.me/git-tricks</link>
             <guid>git-tricks</guid>
-            <pubDate>Fri, 23 Sep 2022 05:54:57 GMT</pubDate>
+            <pubDate>Sun, 26 Feb 2023 08:22:27 GMT</pubDate>
             <description><![CDATA[Blog By Palash Shrivastava]]></description>
         </item>
         <item>
             <title><![CDATA[Why You Should Not Develop a Mobile App]]></title>
             <link>https://blog.palashsh.me/why-mobile-app</link>
             <guid>why-mobile-app</guid>
-            <pubDate>Fri, 23 Sep 2022 05:54:57 GMT</pubDate>
+            <pubDate>Sun, 26 Feb 2023 08:22:27 GMT</pubDate>
             <description><![CDATA[Blog By Palash Shrivastava]]></description>
         </item>
         <item>
