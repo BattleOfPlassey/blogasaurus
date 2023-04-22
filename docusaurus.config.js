@@ -49,7 +49,7 @@ module.exports = {
           type: 'doc',
           docId: 'whoami',
           position: 'left',
-          label: 'Articles',
+          label: 'Journal',
         },
         {
           href: 'https://github.com/battleofplassey',
@@ -88,7 +88,7 @@ module.exports = {
               to: '/',
             },
             {
-              label: 'Articles',
+              label: 'Journal',
               to: '/docs/whoami',
             },
             {
@@ -111,11 +111,11 @@ module.exports = {
                 label: 'TL;DR News',
                 href: 'https://tldr.palashsh.me/'
               },
-              {
-                label : "<hacker's chat>",
-                href : 'http://chat.palashsh.me/',
-                icon: ''
-              }
+              // {
+              //   label : "<hacker's chat>",
+              //   href : 'http://chat.palashsh.me/',
+              //   icon: ''
+              // }
             ],
           },
         
