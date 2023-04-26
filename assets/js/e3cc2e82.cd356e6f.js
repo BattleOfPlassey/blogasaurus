@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8433],{3043:a=>{a.exports=JSON.parse('{"label":"playstation","permalink":"/tags/playstation","allTagsPath":"/tags","count":1}')}}]);

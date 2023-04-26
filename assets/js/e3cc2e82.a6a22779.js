@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8433],{6589:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/playstation","name":"playstation","count":1,"permalink":"/tags/playstation"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8555],{8962:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/ps-5","name":"ps5","count":1,"permalink":"/tags/ps-5"}')}}]);

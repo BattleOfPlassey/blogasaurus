@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3285],{5100:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/ios","name":"ios","count":1,"permalink":"/tags/ios"}')}}]);
