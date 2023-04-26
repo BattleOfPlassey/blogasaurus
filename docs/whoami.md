@@ -3,7 +3,7 @@ id: whoami
 title: whoami?
 sidebar_label: whoami?
 sidebar_position: 1
-
+_template: 'page'
 
 ---
 <!-- ## whoami? -->

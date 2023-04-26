@@ -18,7 +18,7 @@ hide_table_of_contents: false
 slug: git-tricks
 title: GIT essentials I think everyone should know
 draft: false
-
+_template: 'blog_post'
 ---
 <!--truncate-->
 

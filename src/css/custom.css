@@ -1,4 +1,3 @@
-/* stylelint-disable docusaurus/copyright-header */
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -15,14 +14,8 @@
 --ifm-color-primary-light: #52d26f;
 --ifm-color-primary-lighter: #5dd577;
 --ifm-color-primary-lightest: #7cdd92; 
-  /* --ifm-color-primary: #36aed1;
-  --ifm-color-primary-dark: #2c9fc1;
-  --ifm-color-primary-darker: #2a96b6;
-  --ifm-color-primary-darkest: #227c96;
-  --ifm-color-primary-light: #4bb7d6;
-  --ifm-color-primary-lighter: #56bbd8;
-  --ifm-color-primary-lightest: #76c8e0; */
   --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 .docusaurus-highlight-code-line {

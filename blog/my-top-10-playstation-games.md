@@ -18,6 +18,7 @@ hide_table_of_contents: false
 slug: top-ps-games
 title: My Top PlayStation games
 draft: false
+_template: 'blog_post'
 
 ---
 Here are my top PlayStation exclusive games ranked accordingly

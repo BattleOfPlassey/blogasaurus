@@ -16,7 +16,7 @@ hide_table_of_contents: false
 slug: essential-tools-for-mac
 title: Essential Tools I use on Mac
 draft: true
-
+_template: 'blog_post'
 ---
 <!--truncate-->
 1. [Maccy](https://github.com/p0deje/Maccy) is a lightweight clipboard manager for macOS and lifesaver tool for me. It keeps the history of what you copy and lets you quickly navigate, search, and use previous clipboard contents.

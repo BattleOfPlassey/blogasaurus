@@ -1,0 +1,90 @@
+{
+  "label": "Settings",
+  "navbar": [
+    {
+      "label": "Blog",
+      "link": "blog",
+      "position": "left"
+    },
+    {
+      "label": "Journal",
+      "link": "doc",
+      "docLink": "docs/intro.mdx",
+      "position": "left"
+    },
+    {
+      "externalLink": "https://github.com/battleofplassey",
+      "link": "external",
+      "position": "right",
+      "className": "header-github-link",
+      "aria-label": "GitHub repository"
+    }
+  ],
+  "logo": {
+    "alt": "Blogasaurus Logo",
+    "src": "img/blogasaurus_primary.svg"
+  },
+  "title": "",
+  "tagline": "A blog by Palash Shrivastava",
+  "footer": {
+    "style": "dark",
+    "links":[
+      {
+        "title": "Social",
+        "items": [
+          {
+            "label": "Twitter",
+            "href": "https://twitter.com/battleofplassey",
+            "_template": "external"
+          },
+          {
+            "label": "Instagram",
+            "href": "https://instagram.com/battleofplassey",
+            "_template": "external"
+          }
+        ]
+      },
+      {
+        "title": "Navigation",
+        "items": [
+          {
+            "label": "Home",
+            "to": "/",
+            "_template": "internal"
+          },
+          {
+            "label": "Journal",
+            "to": "/docs/whoami",
+            "_template": "internal"
+          },
+          {
+            "label": "GitHub",
+            "href": "https://github.com/battleofplassey",
+            "_template": "external"
+          }
+        ]},
+        {
+          "title": "other Projects",
+          "items": [
+            {
+              "label": "SidToons.com",
+              "href": "https://sidtoons.com",
+            "_template": "external"
+            },
+            {
+              "label": "vocab.js.org",
+              "href": "https://vocab.js.org",
+            "_template": "external"
+            },
+            {
+              "label": "TL;DR News",
+              "href": "https://tldr.palashsh.me/",
+            "_template": "external"
+            }
+          ]
+        }
+    ],
+    "copyright": "Blogasaurus by Palash Shrivastava."
+  },
+  "url": "https://blog.palashsh.me/"
+}

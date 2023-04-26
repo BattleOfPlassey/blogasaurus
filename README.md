@@ -1,19 +1,44 @@
-![Blogasaurus-logo](https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/master/static/img/blogasaurus_dark.svg)
+[![Tinasaurus Demo](https://res.cloudinary.com/forestry-demo/image/upload/v1677522334/tina-io/blog/tinacms-docusaurus-markdown-editing.gif 'Tinasaurus Overview Video')](https://www.youtube.com/watch?v=2bHBwM54UB8)
 
-[![Build Status](https://app.travis-ci.com/BattleOfPlassey/blogasaurus.svg?branch=master)](https://app.travis-ci.com/BattleOfPlassey/blogasaurus)
-### [Link](https://blog.palashsh.me)
 
-## Features
-- Personal blog built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
-- Content is managed by [forestry.io](https://forestry.io/), a Git-backed CMS (content management system) for websites.
-- Hosted on [GitHub pages](https://blog.palashsh.me)
-- CI/CD using [Travis CI](https://www.travis-ci.com/)
-- [Algolia](https://www.algolia.com/) for search.
+## Quickstart With Tina
 
-## Search Index Rebuild
 ```
-docker run -it --env-file=.env -e "CONFIG=$(cat config.json | jq -r tostring)" algolia/docsearch-scraper
+$ npm install && npm run tina  
 ```
 
-## WIP 🚧
-- Email news-letter.
+This will install dependancies and open the website in your browser. 
+
+Visit the CMS at [http://localhost:3000/admin](http://localhost:3000/admin) to start editing.
+
+## About
+
+This website is built using [Docusaurus 2](https://docusaurus.io/) and [TinaCMS](https://tina.io/).
+
+[Watch an overview of this project on YouTube](https://www.youtube.com/watch?v=2bHBwM54UB8).
+
+### Installation
+
+```
+$ npm install
+```
+
+### Local Development
+
+```
+$ npm run tina
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server. Go to the [Tina Admin](http://localhost:3000/admin) to start editing.
+
+### Build
+
+```
+$ npm run build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+To deploy to production and support editing on your live website (at **your-domain.com/admin**), you can follow the steps from [Tina's docs](https://tina.io/docs/forestry/migrate/#deploy-tina-to-your-site).

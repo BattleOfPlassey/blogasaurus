@@ -3,6 +3,7 @@ id: favourite-quotes
 title: Favourite Quotes
 sidebar_label: Favourite Quotes
 sidebar_position: 2
+_template: 'page'
 
 ---
 > Numbers do not lie. Politics, poetry, promises, these are lies. Numbers are the closest we get to the handwriting of god.
