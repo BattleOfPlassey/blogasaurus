@@ -106,9 +106,8 @@ const config = {
 
   presets: [
     [
-      "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      "@docusaurus/preset-classic",
+      {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // editUrl: docusaurusData.url + "/admin/#/collections/doc",
@@ -134,7 +133,7 @@ const config = {
         gtag: {
           trackingID: "G-R5V7R63B0J",
         },
-      }),
+      },
     ],
   ],
 
@@ -192,13 +191,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      // algolia: {
-      //   apiKey: '3534e2d1d881a10081025373d8f2375c',
-      //   indexName: 'dev-blog',
-      //   appId: '2KDKKFPT4A',
-      //   placeholder: 'Search...'
-      // },
-      
+      algolia: {
+        apiKey: '3534e2d1d881a10081025373d8f2375c',
+        indexName: 'dev-blog',
+        appId: '2KDKKFPT4A',
+        placeholder: 'Search...'
+      },
     }),
 };
 
