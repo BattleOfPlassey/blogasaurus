@@ -20,6 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
+      - name: print env dependencies
+        run: echo Hello world ${{ secrets.CLIENT_ID }} ${{ secrets.TOKEN }} $secrets.TOKEN
       - name: Build website
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
