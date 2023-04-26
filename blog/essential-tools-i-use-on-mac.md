@@ -19,10 +19,12 @@ draft: true
 _template: 'blog_post'
 ---
 <!--truncate-->
-1. [Maccy](https://github.com/p0deje/Maccy) is a lightweight clipboard manager for macOS and lifesaver tool for me. It keeps the history of what you copy and lets you quickly navigate, search, and use previous clipboard contents.
+### 1. Maccy 
+[Maccy](https://github.com/p0deje/Maccy) is a lightweight clipboard manager for macOS and lifesaver tool for me. It keeps the history of what you copy and lets you quickly navigate, search, and use previous clipboard contents.
 
    ![](/img/screenshot-2022-08-03-at-11-19-25-am.png)
-2. [Homebrew](https://brew.sh/) installs [the stuff you need](https://formulae.brew.sh/formula/ "List of Homebrew packages") that Apple (or your Linux system) didn’t provide. It is **The Missing Package Manager for macOS.** After installing Homebrew you can simply install software with single command line so “To install, drag this icon…” no more.
+### 2. Homebrew
+[Homebrew](https://brew.sh/) installs [the stuff you need](https://formulae.brew.sh/formula/ "List of Homebrew packages") that Apple (or your Linux system) didn’t provide. It is **The Missing Package Manager for macOS.** After installing Homebrew you can simply install software with single command line so “To install, drag this icon…” no more.
 
 ```bash
 brew install --cask firefox chrome postman dbeaver

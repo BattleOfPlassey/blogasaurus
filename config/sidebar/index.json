@@ -2,81 +2,31 @@
   "label": "Docs Sidebar",
   "items": [
     {
-      "document": "docs/intro.mdx",
+      "document": "docs/whoami.md",
+      "label": "",
       "_template": "doc"
     },
     {
-      "title": "Tutorial - Basics",
+      "title": "Tips & Tricks",
       "link": "generated",
       "items": [
         {
-          "document": "docs/tutorial-basics/create-a-page.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/tutorial-basics/create-a-document.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/tutorial-basics/create-a-blog-post.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/tutorial-basics/deploy-your-site.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/tutorial-basics/congratulations.mdx",
+          "document": "docs/teams-tips-tricks.md",
           "_template": "doc"
         }
       ],
       "_template": "category"
     },
     {
-      "title": "Tutorial - Extras",
+      "title": "Quotes",
       "link": "generated",
       "items": [
         {
-          "document": "docs/tutorial-extras/manage-docs-versions.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/tutorial-extras/translate-your-site.mdx",
+          "document": "docs/favourite-quotes.md",
           "_template": "doc"
         }
       ],
       "_template": "category"
-    },
-    {
-      "title": "Nested Link",
-      "link": "none",
-      "items": [
-        {
-          "title": "Level 2",
-          "link": "none",
-          "items": [
-            {
-              "title": "Level 3",
-              "link": "none",
-              "items": [
-                {
-                  "document": "docs/test-page.mdx",
-                  "label": "",
-                  "_template": "doc"
-                }
-              ],
-              "_template": "category"
-            }
-          ],
-          "_template": "category"
-        }
-      ],
-      "_template": "category"
-    },
-    {
-      "title": "Tina.io",
-      "href": "https://tina.io/",
-      "_template": "link"
     }
   ]
 }

@@ -41,7 +41,7 @@ const formatFooterItem = (item) => {
     } else if (item.href) {
       linkObject.href = item.href;
     } else {
-      linkObject.to = "/blog";
+      linkObject.to = "/";
     }
 
     return linkObject;
@@ -63,7 +63,7 @@ const formatNavbarItem = (item, subnav = false) => {
   }
 
   if (item.link === "blog") {
-    navItem.to = "/blog";
+    navItem.to = "/";
   }
 
   if (item.link === "page" && item.pageLink) {
@@ -111,13 +111,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: docusaurusData.url + "/admin/#/collections/doc",
+          // editUrl: docusaurusData.url + "/admin/#/collections/doc",
         },
         blog: {
-          editUrl: docusaurusData.url + "/admin/#/collections/post",
+          // editUrl: docusaurusData.url + "/admin/#/collections/post",
             showReadingTime: true,
             // Please change this to your repo.
-            // routeBasePath: '/',
+            routeBasePath: '/',
             blogTitle: 'Blogasaurus',
             blogDescription: 'A blog by Palash Shrivastava',
             path: 'blog',
