@@ -10,7 +10,7 @@
             "url": "https://blog.palashsh.me/git-tricks",
             "title": "GIT essentials I think everyone should know",
             "summary": "Blog By Palash Shrivastava",
-            "date_modified": "2023-04-27T07:02:19.000Z",
+            "date_modified": "2023-04-27T07:12:06.000Z",
             "author": {
                 "name": "Palash Shrivastava",
                 "url": "https://github.com/battleofplassey"
@@ -28,7 +28,7 @@
             "url": "https://blog.palashsh.me/top-ps-games",
             "title": "My Top PlayStation games",
             "summary": "Blog By Palash Shrivastava",
-            "date_modified": "2023-04-27T07:02:19.000Z",
+            "date_modified": "2023-04-27T07:12:06.000Z",
             "author": {
                 "name": "Palash Shrivastava",
                 "url": "https://github.com/battleofplassey"
@@ -46,7 +46,7 @@
             "url": "https://blog.palashsh.me/why-mobile-app",
             "title": "Why You Should Not Develop a Mobile App",
             "summary": "Blog By Palash Shrivastava",
-            "date_modified": "2023-04-27T07:02:19.000Z",
+            "date_modified": "2023-04-27T07:12:06.000Z",
             "author": {
                 "name": "Palash Shrivastava",
                 "url": "https://github.com/battleofplassey"
@@ -59,6 +59,18 @@
                 "product",
                 "app"
             ]
+        },
+        {
+            "id": "https://blog.palashsh.me/Deploying-on-GitHub-Actions",
+            "content_html": "",
+            "url": "https://blog.palashsh.me/Deploying-on-GitHub-Actions",
+            "title": "Deploying on GitHub Actions",
+            "date_modified": "2023-04-27T00:00:00.000Z",
+            "author": {
+                "name": "Palash Shrivastava",
+                "url": "https://github.com/BattleOfPlassey"
+            },
+            "tags": []
         },
         {
             "id": "https://blog.palashsh.me/conformity-stifles-creativity",
