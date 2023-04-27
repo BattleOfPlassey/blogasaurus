@@ -10,7 +10,7 @@
             "url": "https://blog.palashsh.me/git-tricks",
             "title": "GIT essentials I think everyone should know",
             "summary": "Blog By Palash Shrivastava",
-            "date_modified": "2023-04-27T07:12:06.000Z",
+            "date_modified": "2023-04-27T07:19:07.000Z",
             "author": {
                 "name": "Palash Shrivastava",
                 "url": "https://github.com/battleofplassey"
@@ -28,7 +28,7 @@
             "url": "https://blog.palashsh.me/top-ps-games",
             "title": "My Top PlayStation games",
             "summary": "Blog By Palash Shrivastava",
-            "date_modified": "2023-04-27T07:12:06.000Z",
+            "date_modified": "2023-04-27T07:19:07.000Z",
             "author": {
                 "name": "Palash Shrivastava",
                 "url": "https://github.com/battleofplassey"
@@ -46,7 +46,7 @@
             "url": "https://blog.palashsh.me/why-mobile-app",
             "title": "Why You Should Not Develop a Mobile App",
             "summary": "Blog By Palash Shrivastava",
-            "date_modified": "2023-04-27T07:12:06.000Z",
+            "date_modified": "2023-04-27T07:19:07.000Z",
             "author": {
                 "name": "Palash Shrivastava",
                 "url": "https://github.com/battleofplassey"
@@ -62,15 +62,19 @@
         },
         {
             "id": "https://blog.palashsh.me/Deploying-on-GitHub-Actions",
-            "content_html": "",
+            "content_html": "<h5 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"1-the-gitignore-added-by-tina-is-blocking-upload\">1. The .gitignore added by tina is blocking upload<a href=\"#1-the-gitignore-added-by-tina-is-blocking-upload\" class=\"hash-link\" aria-label=\"Direct link to 1. The .gitignore added by tina is blocking upload\" title=\"Direct link to 1. The .gitignore added by tina is blocking upload\">​</a></h5><p>We add a .gitignore to the admin folder so that the admin folder does\nnot get committed to your repo. Depending on how you are using Github\nPages you may need to run rm {YourPublicFolder}/admin/.gitignore to remove the .gitignore file.</p><pre tabindex=\"0\" class=\"codeBlockStandalone_MEMb thin-scrollbar codeBlockContainer_Ckt0 theme-code-block\" style=\"--prism-color:#393A34;--prism-background-color:#f6f8fa\"><code class=\"codeBlockLines_e6Vv\">\\- name: Remove gitignore file<div class=\"codeBlockContainer_Ckt0 theme-code-block\" style=\"--prism-color:#393A34;--prism-background-color:#f6f8fa\"><div class=\"codeBlockContent_biex\"><pre tabindex=\"0\" class=\"prism-code language-text codeBlock_bY9V thin-scrollbar\"><code class=\"codeBlockLines_e6Vv\"><span class=\"token-line\" style=\"color:#393A34\"><span class=\"token plain\">       run: rm ./build/admin/.gitignore</span><br></span></code></pre><div class=\"buttonGroup__atx\"><button type=\"button\" aria-label=\"Copy code to clipboard\" title=\"Copy\" class=\"clean-btn\"><span class=\"copyButtonIcons_eSgA\" aria-hidden=\"true\"><svg class=\"copyButtonIcon_y97N\" viewBox=\"0 0 24 24\"><path d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\"></path></svg><svg class=\"copyButtonSuccessIcon_LjdS\" viewBox=\"0 0 24 24\"><path d=\"M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z\"></path></svg></span></button></div></div></div></code></pre>",
             "url": "https://blog.palashsh.me/Deploying-on-GitHub-Actions",
             "title": "Deploying on GitHub Actions",
+            "summary": "1. The .gitignore added by tina is blocking upload",
             "date_modified": "2023-04-27T00:00:00.000Z",
             "author": {
                 "name": "Palash Shrivastava",
                 "url": "https://github.com/BattleOfPlassey"
             },
-            "tags": []
+            "tags": [
+                "GitHub",
+                "Test"
+            ]
         },
         {
             "id": "https://blog.palashsh.me/conformity-stifles-creativity",
