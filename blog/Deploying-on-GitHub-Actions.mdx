@@ -6,5 +6,24 @@ authors:
     url: 'https://github.com/BattleOfPlassey'
     image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 date: '2023-04-27'
+tags:
+  - GitHub
+  - Test
 ---
 
+##### 1. The .gitignore added by tina is blocking upload
+
+We add a .gitignore to the admin folder so that the admin folder does
+ not get committed to your repo. Depending on how you are using Github 
+Pages you may need to run rm \<YourPublicFolder>/admin/.gitignore to remove the .gitignore file.
+
+
+
+
+<CodeBlock language="YAML" title="deploy.yml">
+        \- name: Remove gitignore file
+
+           run: rm ./build/admin/.gitignore
+
+
+</CodeBlock>
