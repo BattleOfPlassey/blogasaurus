@@ -7,7 +7,7 @@
       "position": "left"
     },
     {
-      "label": "Journal",
+      "label": "Stuff of Legend",
       "link": "doc",
       "docLink": "docs/whoami.md",
       "position": "left"
@@ -53,7 +53,7 @@
             "_template": "internal"
           },
           {
-            "label": "Journal",
+            "label": "Stuff of Legend",
             "to": "/docs/whoami",
             "_template": "internal"
           },

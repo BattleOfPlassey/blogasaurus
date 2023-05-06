@@ -7,14 +7,19 @@ tags:
 - blog
 - tools
 - mac
+- homebrew
+- maccy
+- apps
 keywords:
 - blog
 - tools
 - mac
+- homebrew
+- maccy
 description: Blog By Palash Shrivastava
 hide_table_of_contents: false
 slug: essential-tools-for-mac
-title: Essential Tools I use on Mac
+title: Must use Apps for MAC
 draft: true
 _template: 'blog_post'
 ---
@@ -24,9 +29,10 @@ _template: 'blog_post'
 
    ![](/img/screenshot-2022-08-03-at-11-19-25-am.png)
 ### 2. Homebrew
-[Homebrew](https://brew.sh/) installs [the stuff you need](https://formulae.brew.sh/formula/ "List of Homebrew packages") that Apple (or your Linux system) didn’t provide. It is **The Missing Package Manager for macOS.** After installing Homebrew you can simply install software with single command line so “To install, drag this icon…” no more.
+[Homebrew](https://brew.sh/) is **The Missing Package Manager for macOS** as it helps install [the stuff you need](https://formulae.brew.sh/formula/ "List of Homebrew packages") that Apple didn’t provide. After installing Homebrew you can simply install a number of softwares in one go with a single command like below.
 
 ```bash
 brew install --cask firefox chrome postman dbeaver
 ```
-   With Above command we can install any [software](https://formulae.brew.sh/) in one go.
+
+So No more “To install, drag this icon…”.
