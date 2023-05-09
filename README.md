@@ -1,6 +1,6 @@
 ![Blogasaurus-logo](https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/master/static/img/blogasaurus_dark.svg)
 
-[![Build Status](https://github.com/BattleOfPlassey/blogasaurus/actions/workflows/deploy.yml/badge.svg)](https://app.travis-ci.com/BattleOfPlassey/blogasaurus)
+[![Build Status](https://github.com/BattleOfPlassey/blogasaurus/actions/workflows/deploy.yml/badge.svg)](https://github.com/BattleOfPlassey/blogasaurus/actions/workflows/deploy.yml)
 ### [Link](https://blog.palashsh.me)
 
 ## Features
