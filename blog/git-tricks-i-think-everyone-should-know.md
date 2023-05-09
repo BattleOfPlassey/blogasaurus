@@ -1,25 +1,25 @@
 ---
 author: Palash Shrivastava
 author_title: Owner
-author_url: https://github.com/battleofplassey
-author_image_url: https://avatars.githubusercontent.com/u/35087196?v=4
+author_url: 'https://github.com/battleofplassey'
+author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 tags:
-- blog
-- git
-- programming
-- vcs
+  - git
+  - programming
+  - vcs
 keywords:
-- blog
-- git
-- programming
-- vcs
+  - git
+  - programming
+  - vcs
 description: Blog By Palash Shrivastava
 hide_table_of_contents: false
-slug: git-tricks
+slug: git-essentials
 title: GIT essentials I think everyone should know
 draft: false
-_template: 'blog_post'
+image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+date: 2022-07-31T18:30:00.000Z
 ---
+
 <!--truncate-->
 
 ### 1. GitLens
@@ -30,7 +30,7 @@ _template: 'blog_post'
 
 * First, List all your stashes.
 
-```bash 
+```bash
 L:\Project1> git stash list
 stash@{0}: On parallax-effect-feature: setting aside animated feature code
 stash@{1}: On parallax-effect-feature: testing parallex
@@ -38,7 +38,7 @@ stash@{1}: On parallax-effect-feature: testing parallex
 
 * Second, Export to Patch files. You'll have to specify your stash ID and provide a name for your patch file. Do this for the stashes you want to move.
 
-```bash 
+```bash
 git stash show -p stash@{0} > AnimatedPatch
 git stash show -p stash@{1} > ParallexPatch
 ```

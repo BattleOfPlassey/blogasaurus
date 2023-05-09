@@ -2,15 +2,31 @@
 slug: conformity-stifles-creativity
 title: Does conformity stifles creativity ?
 author: Palash Shrivastava
-author_title: Owner
-author_url: https://github.com/battleofplassey
-author_image_url: https://avatars.githubusercontent.com/u/35087196?v=4
-tags: [conformity, students, learning, essay, gre, awa]
-keywords: [creativity,conformity, essay, gre ,awa]
+author_title: 'Not a writer, Ssshhh!'
+author_url: 'https://github.com/battleofplassey'
+author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+tags:
+  - conformity
+  - students
+  - learning
+  - essay
+  - gre
+  - awa
+keywords:
+  - creativity
+  - conformity
+  - essay
+  - gre
+  - awa
 draft: false
-description: The extend to which conformity stifles creativity depends upon the nature of the job being executed, the temperament of each individual and the final goal to be achieved. I am in full agreement that conformity stifles creativity; indeed they both are mutually exclusive.
+description: >-
+  The extend to which conformity stifles creativity depends upon the nature of
+  the job being executed, the temperament of each individual and the final goal
+  to be achieved. I am in full agreement that conformity stifles creativity;
+  indeed they both are mutually exclusive.
 hide_table_of_contents: false
-image: /img/palash_about-removebg-preview.png
+image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+date: 2021-01-15T18:30:00.000Z
 ---
 
 The extend to which conformity stifles creativity depends upon the nature of the job being executed, the temperament of each individual and the final goal to be achieved. I am in full agreement that conformity stifles creativity; indeed they both are mutually exclusive. <!--truncate-->

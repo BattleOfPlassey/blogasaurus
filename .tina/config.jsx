@@ -50,67 +50,51 @@ const PostCollection = {
   name: "post",
   label: "Posts",
   path: "blog",
-  format: "mdx",
+  format: "md",
   ui: {
     defaultItem: {
-      date: docusaurusDate(new Date()),
+      author: 'Palash Shrivastava',
+      author_title: 'Owner',
+      author_url:"https://github.com/battleofplassey",
+      author_image_url:"https://avatars.githubusercontent.com/u/35087196?v=4",
+      hide_table_of_contents: false,
+      image: "https://avatars.githubusercontent.com/u/35087196?v=4"
     },
   },
   fields: [
     {
       type: "string",
       name: "title",
-      label: "Title",
+      label: "Title of post",
       isTitle: true,
       required: true,
     },
-    {
-      name: "authors",
-      label: "Authors",
-      type: "object",
-      list: true,
-      ui: {
-        itemProps: (item) => {
-          return { label: item?.name };
-        },
-      },
-      fields: [
-        {
-          name: "name",
-          label: "Name",
+     {
+          name: "author",
+          label: "Author Name",
           type: "string",
-          isTitle: true,
           required: true,
         },
         {
-          name: "title",
-          label: "Title",
+          name: "author_title",
+          label: "Author's Title",
           type: "string",
         },
         {
-          name: "url",
-          label: "URL",
+          name: "author_url",
+          label: "Author's url",
           type: "string",
         },
         {
-          name: "image_url",
-          label: "Image URL",
+          name: "author_image_url",
+          label: "Author's image url",
           type: "string",
         },
-      ],
-    },
     {
       name: "date",
-      label: "Date",
-      type: "string",
-      required: true,
-      ui: {
-        dateFormat: "MMM D, yyyy",
-        component: "date",
-        parse: (val) => {
-          docusaurusDate(val);
-        },
-      },
+      label: "Date of post",
+      type: "datetime",
+      required: false,
     },
     {
       label: "Tags",
@@ -120,6 +104,40 @@ const PostCollection = {
       ui: {
         component: "tags",
       },
+    },
+    {
+      label: "Keywords for Search Engines",
+      name: "keywords",
+      type: "string",
+      list: true,
+      ui: {
+        component: "tags",
+      },
+    },
+    {
+      type: "string",
+      name: "description",
+      label: "Description(used by search engines)",
+    },
+    {
+      type: "boolean",
+      name: "hide_table_of_contents",
+      label: "Hide the table of contents to the right",
+    },
+    {
+      type: "string",
+      name: "slug",
+      label: "Slug"
+    },
+    {
+      type: "boolean",
+      name: "draft",
+      label: "Draft",
+    },
+    {
+      type: "string",
+      name: "image",
+      label: "Thumbnail (image for links)",
     },
     {
       type: "rich-text",
@@ -135,7 +153,7 @@ const DocsCollection = {
   name: "doc",
   label: "Docs",
   path: "docs",
-  format: "mdx",
+  format: "md",
   fields: [
     {
       type: "string",

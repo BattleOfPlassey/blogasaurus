@@ -2,14 +2,26 @@
 slug: experts-newbie
 title: Advancements in a field of study and outside experts
 author: Palash Shrivastava
-author_title: Owner
-author_url: https://github.com/battleofplassey
-author_image_url: https://avatars.githubusercontent.com/u/35087196?v=4
-tags: [conformity, students, learning, essay, gre, awa]
-keywords: [students,conformity, essay, gre ,awa]
+author_title: 'Not a writer, Ssshhh!'
+author_url: 'https://github.com/battleofplassey'
+author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+tags:
+  - conformity
+  - students
+  - learning
+  - essay
+  - gre
+  - awa
+keywords:
+  - students
+  - conformity
+  - essay
+  - gre
+  - awa
 draft: false
-description: Questioning and challenging the assertions of others has proven to be effective in the process of learning
-image: /img/palash_about-removebg-preview.png
+description: Questioning and challenging the assertions of others
+image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+date: 2020-12-14T18:30:00.000Z
 ---
 
 I strongly agree with the assertion that significant advances in knowledge require expertise from various fields. The world around us presents a seamless web of physical and anthropocentric forces, which interact in ways that can be understood only in the context of a variety of disciplines. <!--truncate-->

@@ -2,16 +2,24 @@
 slug: great-nation
 title: Indicator of a great nation
 author: Palash Shrivastava
-author_title: Owner
+author_title: 'Not a writer, Ssshhh!'
 author_url: 'https://github.com/battleofplassey'
 author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
-tags: [nation, essay, gre, awa]
-keywords: [indicator of a great nation, essay, gre ,awa]
+tags:
+  - nation
+  - essay
+  - gre
+  - awa
+keywords:
+  - indicator of a great nation
+  - essay
+  - gre
+  - awa
 draft: false
-description: How do you define a Great nation?  To have common glories in the past, to have a common will in the present, to have performed great deeds together, to wish to perform still more, these are the essential conditions of a being a Great Nation.
+description: How do you define a Great nation
 hide_table_of_contents: false
-image: /img/palash_about-removebg-preview.png
-_template: 'blog_post'
+image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+date: 2020-09-30T18:30:00.000Z
 ---
 
 A nation is a feeling of collective belonging to an identity by its resident which has common language, culture, race, religion or territory. <!--truncate-->A nation is the culmination of a long past of endeavors, sacrifice and devotion of its great heroes, leaders, scientists, artists and most importantly its general public. The author’s point that the indicator of any great nation is represented by the achievements in general welfare of society and not by the achievements of its rulers, artists, or scientists is true to some extent. However I believe that the achievements of a nation's rulers, artists and scientists are synonymous to the general welfare of the people, instead of being separate as implied above.
