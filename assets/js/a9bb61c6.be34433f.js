@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5893],{1838:e=>{e.exports=JSON.parse('{"label":"homebrew","permalink":"/tags/homebrew","allTagsPath":"/tags","count":1}')}}]);
