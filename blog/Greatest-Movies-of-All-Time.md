@@ -19,6 +19,10 @@ slug: greatest-english-movies-of-all-time
 image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 ---
 
+Here are the greatest English movies of all time according to me.
+
+<!--truncate-->
+
 ### 1. Avengers Endgame
 
 ### 2. Lord Of the rings Triology
