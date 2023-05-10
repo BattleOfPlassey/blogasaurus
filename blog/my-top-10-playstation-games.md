@@ -14,7 +14,7 @@ keywords:
 description: Blog By Palash Shrivastava
 hide_table_of_contents: false
 slug: top-playstation-games
-title: My Top PlayStation Exclusive Games
+title: Top PlayStation Exclusive Games
 draft: false
 image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 date: 2023-02-25T18:30:00.000Z
