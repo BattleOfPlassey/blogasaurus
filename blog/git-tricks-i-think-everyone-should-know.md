@@ -56,7 +56,13 @@ git stash
 
 ### 3. Delete branch on local and remote
 
+```bash
+# to delete branch on local repo
+git branch -d <branch-name>
 
+# to push delete branch on remote after deleting on local
+git push origin -d <branch-name>
+```
 
 ### 4. GIT add all and commit in 1 line
 
