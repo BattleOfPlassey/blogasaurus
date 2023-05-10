@@ -54,7 +54,11 @@ git apply ParallexPatch
 git stash
 ```
 
-### 3. GIT add all and commit in 1 line
+### 3. Delete branch on local and remote
+
+
+
+### 4. GIT add all and commit in 1 line
 
 ```bash
 git commit -am "add all and commit"
