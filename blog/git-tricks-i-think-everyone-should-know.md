@@ -26,7 +26,7 @@ date: 2022-07-31T18:30:00.000Z
 
 [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) is a VSCode extension. This has been a lifesaver for me and my team. It works beautifully with vscode. I can compare commits, code from different branches, check current blame by just hover, manage stashes, check blame, heatmap, file-changes, push & pull code etc with so much ease. Git is no more God's way of semantic versioning.
 
-### 2. Moving or Migrating GIT stashes from old computer to new.
+### 2. Moving or Migrating stashes from old computer to new.
 
 * First, List all your stashes.
 
@@ -64,7 +64,7 @@ git branch -d <branch-name>
 git push origin -d <branch-name>
 ```
 
-### 4. GIT add all and commit in 1 line
+### 4. Add all files and commit in 1 line
 
 ```bash
 git commit -am "add all and commit"
