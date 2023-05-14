@@ -17,7 +17,7 @@ description: Greatest English Movies of All Time
 hide_table_of_contents: false
 slug: greatest-english-movies-of-all-time
 image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
-draft: true
+draft: false
 ---
 
 Here are the greatest English movies of all time according to me.
@@ -43,3 +43,7 @@ Here are the greatest English movies of all time according to me.
 ## 9. Warrior
 
 ## 10. Harry Potter series
+
+## 11. The Good, the bad and the ugl
+
+## 12. 12 Angry Men
