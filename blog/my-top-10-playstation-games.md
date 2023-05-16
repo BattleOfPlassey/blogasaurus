@@ -1,17 +1,22 @@
 ---
 author: Palash Shrivastava
-author_title: Owner
+author_title: '△ O X □ '
 author_url: 'https://github.com/battleofplassey'
 author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 tags:
+  - sony
   - gaming
   - playstation
   - ps5
 keywords:
+  - games
+  - ps5 games
+  - top ps games
+  - sony
   - gaming
   - playstation
   - ps5
-description: Blog By Palash Shrivastava
+description: Top PlayStation Exclusive Games
 hide_table_of_contents: false
 slug: top-playstation-games
 title: Top PlayStation Exclusive Games
