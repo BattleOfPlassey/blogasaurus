@@ -1,6 +1,6 @@
 ---
 author: Palash Shrivastava
-author_title: '△ O X □ '
+author_title: Console War Veteran
 author_url: 'https://github.com/battleofplassey'
 author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 tags:
