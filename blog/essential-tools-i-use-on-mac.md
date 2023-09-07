@@ -25,6 +25,8 @@ date: 2022-07-31T18:30:00.000Z
 image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 ---
 
+Here are some essential Mac OS apps.
+
 <!--truncate-->
 
 ### 1. Maccy
@@ -42,3 +44,7 @@ brew install --cask firefox chrome postman dbeaver
 ```
 
 So No more “To install, drag this icon…”.
+
+### 3. OneMenu
+
+[OneMenu](https://www.withmarko.com/one-menu) is a menu-bar app which has a keyboard cleaning mode. I use this mode to disable key presses while I physically wipe my keyboard. Additionally it also features a system monitoring tool and a window manager.
