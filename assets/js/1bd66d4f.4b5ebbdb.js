@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8214],{4268:e=>{e.exports=JSON.parse('{"label":"wealth generation","permalink":"/tags/wealth-generation","allTagsPath":"/tags","count":1}')}}]);
