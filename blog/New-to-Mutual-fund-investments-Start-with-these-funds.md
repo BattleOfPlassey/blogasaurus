@@ -16,7 +16,7 @@ keywords:
 description: Begin your investment journey with these mutual funds
 hide_table_of_contents: false
 slug: New-to-Mutual-fund-investments
-draft: false
+draft: true
 image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 ---
 
