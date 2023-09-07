@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7644],{2692:s=>{s.exports=JSON.parse('{"label":"mutual funds","permalink":"/tags/mutual-funds","allTagsPath":"/tags","count":1}')}}]);
