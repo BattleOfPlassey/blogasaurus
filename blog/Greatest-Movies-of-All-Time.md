@@ -20,7 +20,7 @@ image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 draft: false
 ---
 
-Here are the greatest English movies of all time according to me.
+Here are a few of my all-time favorite English-language films.
 
 <!--truncate-->
 
