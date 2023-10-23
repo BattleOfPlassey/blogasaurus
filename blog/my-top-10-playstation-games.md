@@ -1,8 +1,10 @@
 ---
+title: Top PlayStation Exclusive Games
 author: Palash Shrivastava
 author_title: Console War Veteran
 author_url: 'https://github.com/battleofplassey'
 author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+date: 2023-10-22T18:30:00.000Z
 tags:
   - sony
   - gaming
@@ -19,10 +21,8 @@ keywords:
 description: Top PlayStation Exclusive Games
 hide_table_of_contents: false
 slug: top-playstation-games
-title: Top PlayStation Exclusive Games
 draft: false
 image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
-date: 2023-02-25T18:30:00.000Z
 ---
 
 Here are my top PlayStation exclusive games ranked accordingly
@@ -60,3 +60,7 @@ Here are my top PlayStation exclusive games ranked accordingly
 ### 8. Spiderman Miles Morales
 
 <iframe width="100%" height="444" src="https://www.youtube.com/embed/BioZV_AHvnM" title="YouTube video player" frameborder="0"  allow="fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+### 9. Spiderman 2
+
+<iframe width="100%" height="444" src="https://www.youtube.com/embed/XrPZSq5YXqc" title="YouTube video player" frameborder="0" allow="fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>\</iframe>
