@@ -2,10 +2,6 @@
   "label": "Docs Sidebar",
   "items": [
     {
-      "document": "docs/Send-Ctrl-Alt-Del-to-Remote-Desktop-from-Mac.md",
-      "_template": "doc"
-    },
-    {
       "document": "docs/whoami.md",
       "label": "",
       "_template": "doc"
