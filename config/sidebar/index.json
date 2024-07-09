@@ -15,6 +15,10 @@
       "link": "generated",
       "items": [
         {
+          "document": "docs/Send-Ctrl-Alt-Del-to-Remote-Desktop-from-Mac.md",
+          "_template": "doc"
+        },
+        {
           "document": "docs/teams-tips-tricks.md",
           "_template": "doc"
         }
