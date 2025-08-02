@@ -141,9 +141,9 @@ const config: Config = {
           // editUrl:
             // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onInlineTags: 'ignore',
+          onInlineAuthors: 'ignore',
+          onUntruncatedBlogPosts: 'ignore',
             routeBasePath: '/',
           blogTitle: 'Blogasaurus',
             blogDescription: 'A blog by Palash Shrivastava',
