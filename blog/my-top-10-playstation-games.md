@@ -63,4 +63,4 @@ Here are my top PlayStation exclusive games ranked accordingly
 
 ### 9. Spiderman 2
 
-<iframe width="100%" height="444" src="https://www.youtube.com/embed/XrPZSq5YXqc" title="YouTube video player" frameborder="0" allow="fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>\</iframe>
+<iframe width="100%" height="444" src="https://www.youtube.com/embed/XrPZSq5YXqc" title="YouTube video player" frameborder="0" allow="fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
