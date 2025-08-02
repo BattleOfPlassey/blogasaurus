@@ -1,41 +1,16 @@
-# Website
+![Blogasaurus-logo](https://raw.githubusercontent.com/BattleOfPlassey/blogasaurus/master/static/img/blogasaurus_dark.svg)
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+[![Build Status](https://github.com/BattleOfPlassey/blogasaurus/actions/workflows/deploy.yml/badge.svg)](https://github.com/BattleOfPlassey/blogasaurus/actions/workflows/deploy.yml)
+### [Link](https://blog.palashsh.me)
 
-## Installation
+## Features
+- Personal blog built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
+- Hosted on [GitHub pages](https://blog.palashsh.me)
+- CI/CD using [GitHub Actions](https://github.com/BattleOfPlassey/blogasaurus/actions)
+- [Algolia](https://www.algolia.com/) for search.
+- Content Management by [TinaCMS](https://tina.io/docs)
 
-```bash
-yarn
+## Search Index Rebuild
 ```
-
-## Local Development
-
-```bash
-yarn start
+docker run -it --env-file=.env -e "CONFIG=$(cat config.json | jq -r tostring)" algolia/docsearch-scraper
 ```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
