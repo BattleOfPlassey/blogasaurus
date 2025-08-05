@@ -212,12 +212,12 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-    // algolia: {
-    //     apiKey: '3534e2d1d881a10081025373d8f2375c',
-    //     indexName: 'dev-blog',
-    //     appId: '2KDKKFPT4A',
-    //     placeholder: 'Search...'
-    //   },
+    algolia: {
+        apiKey: '3534e2d1d881a10081025373d8f2375c',
+        indexName: 'dev-blog',
+        appId: '2KDKKFPT4A',
+        placeholder: 'Search...'
+      },
   } satisfies Preset.ThemeConfig,
 };
 
