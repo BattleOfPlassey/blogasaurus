@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7747],{1553:a=>{a.exports=JSON.parse('{"permalink":"/tags/programming","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"A blog by Palash Shrivastava","blogTitle":"Blogasaurus"}')}}]);

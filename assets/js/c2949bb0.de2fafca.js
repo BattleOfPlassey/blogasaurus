@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2348],{2157:e=>{e.exports=JSON.parse('{"title":"Quotes","slug":"/category/quotes","permalink":"/docs/category/quotes","navigation":{"previous":{"title":"Microsoft Teams Tricks","permalink":"/docs/teams-tips-tricks"},"next":{"title":"Favourite Quotes","permalink":"/docs/favourite-quotes"}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_classic_typescript=self.webpackChunkdocusaurus_classic_typescript||[]).push([[9067],{9187:s=>{s.exports=JSON.parse('{"tags":[{"label":"mac","permalink":"/docs/tags/mac","count":1},{"label":"shortcuts","permalink":"/docs/tags/shortcuts","count":1},{"label":"teams","permalink":"/docs/tags/teams","count":1}]}')}}]);
