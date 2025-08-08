@@ -25,6 +25,8 @@ jobs:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           TOKEN: ${{ secrets.TOKEN }}
         run: yarn build
+      - name: Remove gitignore file
+        run: rm ./build/admin/.gitignore
 
 
       # Popular action to deploy to GitHub Pages:
