@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_classic_typescript=self.webpackChunkdocusaurus_classic_typescript||[]).push([[5434],{6119:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":10,"blogDescription":"A blog by Palash Shrivastava","blogTitle":"Blogasaurus"}}')}}]);
