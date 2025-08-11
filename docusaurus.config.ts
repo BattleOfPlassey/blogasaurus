@@ -125,10 +125,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-            // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -136,11 +132,6 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-            // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
           onInlineTags: 'ignore',
           onInlineAuthors: 'ignore',
           onUntruncatedBlogPosts: 'ignore',
@@ -162,7 +153,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
      metadata: [
         {
           property: 'og:image',
@@ -175,12 +165,12 @@ const config: Config = {
         },
         {name: 'twitter:site', content: '@battleofplassey'},
       ],
-      announcementBar: {
-        id: "support_us",
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
-       content: `If you like what you see, follow me on <a href="https://twitter.com/intent/follow?screen_name=battleofplassey&amp;region=follow_link" class="twitter-follow-button"><div class="icon"></div>@battleofplassey</a>`
-      },
+      // announcementBar: {
+      //   id: "support_us",
+      //   backgroundColor: '#fafbfc',
+      //   textColor: '#091E42',
+      //  content: `If you like what you see, follow me on <a href="https://twitter.com/intent/follow?screen_name=battleofplassey&amp;region=follow_link" class="twitter-follow-button"><div class="icon"></div>@battleofplassey</a>`
+      // },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: docusaurusData.title || "",
