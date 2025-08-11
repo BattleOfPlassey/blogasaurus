@@ -1,23 +1,17 @@
 ---
 title: Greatest Movies of All Time
-author: Palash Shrivastava
-author_title: Life in Movies
-author_url: 'https://github.com/battleofplassey'
-author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+authors:
+  - palash_cinephille
 date: 2023-05-08T18:30:00.000Z
 tags:
-  - english
-  - greatest
-  - movies
-keywords:
   - english
   - greatest
   - movies
 description: Greatest English Movies of All Time
 hide_table_of_contents: false
 slug: greatest-english-movies-of-all-time
-image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 draft: false
+image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 ---
 
 Here are a few of my all-time favorite English-language films.

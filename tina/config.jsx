@@ -3,6 +3,7 @@ import { defineConfig, TextField } from "tinacms";
 import { ReferenceField } from "tinacms";
 import { FeaturesBlockTemplate } from "../src/components/Features/template";
 import { HeroBlockTemplate } from "../src/components/Hero/template";
+import { YouTubeEmbedBlockTemplate } from "../src/components/YouTubeEmbed/template";
 import { MDXTemplates } from "../src/theme/template";
 import { docusaurusDate, titleFromSlug } from "../util";
 import title from "title";
@@ -10,7 +11,6 @@ import title from "title";
 // Your hosting provider likely exposes this as an environment variable
 const branch =
   process.env.NEXT_PUBLIC_TINA_BRANCH ||
-  process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF ||
   process.env.HEAD ||
   "master";
 
@@ -52,62 +52,46 @@ const PostCollection = {
   path: "blog",
   format: "md",
   ui: {
-    defaultItem: {
-      author: 'Palash Shrivastava',
-      author_title: 'Owner',
-      author_url:"https://github.com/battleofplassey",
-      author_image_url:"https://avatars.githubusercontent.com/u/35087196?v=4",
-      hide_table_of_contents: false,
-      image: "https://avatars.githubusercontent.com/u/35087196?v=4"
-    },
+    defaultItem: () => {
+      return {
+        date: docusaurusDate(new Date()),
+      }
+    }
   },
   fields: [
     {
       type: "string",
       name: "title",
-      label: "Title of post",
+      label: "Title",
       isTitle: true,
       required: true,
     },
-     {
-          name: "author",
-          label: "Author Name",
-          type: "string",
-          required: true,
-        },
-        {
-          name: "author_title",
-          label: "Author's Title",
-          type: "string",
-        },
-        {
-          name: "author_url",
-          label: "Author's url",
-          type: "string",
-        },
-        {
-          name: "author_image_url",
-          label: "Author's image url",
-          type: "string",
-        },
+   {
+  label: "Authors",
+  name: "authors",
+  type: "string",
+  list: true,
+  ui: {
+    component: "checkbox-group",
+  },
+  options: [
+    { value: "palash", label: "Owner" },
+    { value: "palash_writer", label: "Writer" },
+    { value: "palash_gamer", label: "Gamer" },
+    { value: "palash_programmer", label: "Programmer" },
+    { value: "palash_cinephille", label: "Cinephille" },
+    { value: "srashti", label: "Srashti Khare" },
+  ],
+},
     {
       name: "date",
-      label: "Date of post",
+      label: "Date",
       type: "datetime",
       required: false,
     },
     {
       label: "Tags",
       name: "tags",
-      type: "string",
-      list: true,
-      ui: {
-        component: "tags",
-      },
-    },
-    {
-      label: "Keywords for Search Engines",
-      name: "keywords",
       type: "string",
       list: true,
       ui: {
@@ -153,7 +137,7 @@ const DocsCollection = {
   name: "doc",
   label: "Docs",
   path: "docs",
-  format: "md",
+  format: "mdx",
   fields: [
     {
       type: "string",
@@ -195,8 +179,8 @@ const DocLinkTemplate = {
         label: item?.label
           ? item?.label
           : item?.document
-          ? titleFromSlug(item?.document)
-          : item.name,
+            ? titleFromSlug(item?.document)
+            : item.name,
       };
     },
   },
@@ -803,7 +787,11 @@ const HomepageCollection = {
       list: true,
       name: "blocks",
       label: "Blocks",
-      templates: [HeroBlockTemplate, FeaturesBlockTemplate],
+      templates: [
+        HeroBlockTemplate,
+        FeaturesBlockTemplate,
+        YouTubeEmbedBlockTemplate,
+      ],
     },
   ],
 };
@@ -854,7 +842,7 @@ export default defineConfig({
     collections: [
       DocsCollection,
       PostCollection,
-      HomepageCollection,
+      // HomepageCollection,
       PagesCollection,
       SidebarCollection,
       SettingsCollection,

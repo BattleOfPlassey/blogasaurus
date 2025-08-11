@@ -1,9 +1,6 @@
 ---
 title: Top PlayStation Exclusive Games
-author: Palash Shrivastava
-author_title: Console War Veteran
-author_url: 'https://github.com/battleofplassey'
-author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+authors: [palash_gamer]
 date: 2023-10-22T18:30:00.000Z
 tags:
   - sony

@@ -1,29 +1,3 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/test'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
-
 palash:
   name: Palash Shrivastava
   title: Owner of Blogasaurus
@@ -34,24 +8,53 @@ palash:
     permalink: '/all-sebastien-lorber-articles'
   socials:
     x: battleofplassey
-    linkedin: palashshrivastava
+    linkedin: palash-shrivastava
     github: battleofplassey
-    newsletter: https://thisweekinreact.com
+    # newsletter: https://thisweekinreact.com
 
 palash_writer:
   name: Palash Shrivastava
   title: Not a writer, Ssshhh!
   url: https://github.com/battleofplassey
   image_url: https://avatars.githubusercontent.com/u/35087196?v=4
-  # page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    # permalink: '/all-sebastien-lorber-articles'
   socials:
     x: battleofplassey
-    linkedin: palashshrivastava
+    linkedin: palash-shrivastava
     github: battleofplassey
-    newsletter: https://thisweekinreact.com
 
-    # author_title: ''
-# author_url: 'https://github.com/battleofplassey'
-# author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+palash_gamer:
+  name: Palash Shrivastava
+  title: Console War Veteran
+  url: https://github.com/battleofplassey
+  image_url: https://avatars.githubusercontent.com/u/35087196?v=4
+  socials:
+    x: battleofplassey
+    linkedin: palash-shrivastava
+    github: battleofplassey
+
+palash_cinephille:
+  name: Palash Shrivastava
+  title: Life in Movies
+  url: https://github.com/battleofplassey
+  image_url: https://avatars.githubusercontent.com/u/35087196?v=4
+  socials:
+    x: battleofplassey
+    linkedin: palash-shrivastava
+    github: battleofplassey
+
+palash_programmer:
+  name: Palash Shrivastava
+  title: Engineer
+  url: https://github.com/battleofplassey
+  image_url: https://avatars.githubusercontent.com/u/35087196?v=4
+  socials:
+    x: battleofplassey
+    linkedin: palash-shrivastava
+    github: battleofplassey
+
+srashti:
+  name: Srashti Khare
+  title: Engineer
+  image_url: https://media.licdn.com/dms/image/v2/D4D03AQEL1v7pNJJnvA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1706261869785?e=1757548800&v=beta&t=AaaSSYgQbf585jBhLNSVfX9nhrz2pa2XDMWlZ67wM1Y
+  socials:
+    linkedin: srashti-khare0410

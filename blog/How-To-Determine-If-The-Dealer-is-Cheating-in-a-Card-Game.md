@@ -1,15 +1,12 @@
 ---
 title: How To Determine If The Dealer is Cheating in a Card Game
-author: Palash Shrivastava
-author_title: Loses money in Poker
-author_url: 'https://github.com/battleofplassey'
-author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+# authors:
+#   - name: Palash Shrivastava
+#     title: Loses money in Poker
+#     url: 'https://github.com/battleofplassey'
+#     image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
 date: 2023-09-17T18:30:00.000Z
 tags:
-  - card tricks
-  - poker
-keywords:
-  - Dealer Cheating in a Card Game
   - card tricks
   - poker
 description: How To Determine If The Dealer is Cheating in a Card Game

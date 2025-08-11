@@ -1,8 +1,5 @@
 ---
-author: Palash Shrivastava
-author_title: Owner
-author_url: 'https://github.com/battleofplassey'
-author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+authors: [palash_programmer]
 tags:
   - blog
   - tools
@@ -10,12 +7,6 @@ tags:
   - homebrew
   - maccy
   - apps
-keywords:
-  - blog
-  - tools
-  - mac
-  - homebrew
-  - maccy
 description: Blog By Palash Shrivastava
 hide_table_of_contents: false
 slug: essential-tools-for-mac

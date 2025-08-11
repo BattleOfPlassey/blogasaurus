@@ -1,22 +1,11 @@
 ---
-author: Palash Shrivastava
-author_title: Owner
-author_url: 'https://github.com/battleofplassey'
-author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+authors: [palash_programmer]
 tags:
   - mobile
   - development
   - android
   - ios
   - product
-  - app
-keywords:
-  - mobile
-  - development
-  - android
-  - ios
-  - product
-  - react-native
   - app
 description: Blog By Palash Shrivastava
 hide_table_of_contents: false

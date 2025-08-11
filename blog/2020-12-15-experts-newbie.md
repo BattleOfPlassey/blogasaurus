@@ -1,7 +1,8 @@
 ---
-slug: experts-newbie
 title: Advancements in a field of study and outside experts
-authors: [palash_writer]
+authors:
+  - palash_writer
+date: 2020-12-14T18:30:00.000Z
 tags:
   - conformity
   - students
@@ -9,16 +10,10 @@ tags:
   - essay
   - gre
   - awa
-keywords:
-  - students
-  - conformity
-  - essay
-  - gre
-  - awa
-draft: false
 description: Questioning and challenging the assertions of others
+slug: experts-newbie
+draft: false
 image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
-date: 2020-12-14T18:30:00.000Z
 ---
 
 I strongly agree with the assertion that significant advances in knowledge require expertise from various fields. The world around us presents a seamless web of physical and anthropocentric forces, which interact in ways that can be understood only in the context of a variety of disciplines. <!--truncate-->

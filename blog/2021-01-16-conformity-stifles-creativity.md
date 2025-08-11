@@ -1,20 +1,11 @@
 ---
 slug: conformity-stifles-creativity
 title: Does conformity stifles creativity ?
-author: Palash Shrivastava
-author_title: 'Not a writer, Ssshhh!'
-author_url: 'https://github.com/battleofplassey'
-author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+authors: [palash_writer]
 tags:
   - conformity
   - students
   - learning
-  - essay
-  - gre
-  - awa
-keywords:
-  - creativity
-  - conformity
   - essay
   - gre
   - awa

@@ -1,12 +1,8 @@
 ---
 slug: android-part
 title: Fundamentals of Android Development
-author: Palash Shrivastava
-author_title: Owner
-author_url: https://github.com/battleofplassey
-author_image_url: https://avatars.githubusercontent.com/u/35087196?v=4
+authors: [palash_programmer]
 tags: [android, development, fundamentals]
-keywords: [android, development, fundamentals, technology]
 draft: true
 description: The Android operating system is a multi-user Linux system in which each app is a different user.
 hide_table_of_contents: false

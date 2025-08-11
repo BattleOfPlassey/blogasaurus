@@ -1,13 +1,6 @@
 ---
-author: Palash Shrivastava
-author_title: Owner
-author_url: 'https://github.com/battleofplassey'
-author_image_url: 'https://avatars.githubusercontent.com/u/35087196?v=4'
+authors: [palash_programmer]
 tags:
-  - git
-  - programming
-  - vcs
-keywords:
   - git
   - programming
   - vcs
