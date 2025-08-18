@@ -65,15 +65,17 @@ git push origin -d <branch-name>
 git commit -am "add all and commit"
 ```
 
-### 5. Take a fresh pull of an existing branch without resolving merge conflicts 
+### 5. Take a fresh pull of an existing branch without resolving merge conflicts
 
 Need to delete your local branch and re-fetch it cleanly from the remote.
-
-
 
 ```bash
 
 # Steps to Take Fresh Pull of an Existing Branch
+
+<Admonition type="warning">
+  This will discard all local changes in that branch. Make sure to back up anything you want to keep.
+</Admonition>
 
 # 1. Switch to another branch (like main or master)
 git checkout main
