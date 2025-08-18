@@ -69,13 +69,12 @@ git commit -am "add all and commit"
 
 Need to delete your local branch and re-fetch it cleanly from the remote.
 
-```bash
-
-# Steps to Take Fresh Pull of an Existing Branch
-
 <Admonition type="warning">
   This will discard all local changes in that branch. Make sure to back up anything you want to keep.
 </Admonition>
+
+```bash
+# Steps to Take Fresh Pull of an Existing Branch
 
 # 1. Switch to another branch (like main or master)
 git checkout main
