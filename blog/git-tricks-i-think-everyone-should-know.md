@@ -1,5 +1,8 @@
 ---
-authors: [palash_programmer]
+title: 'GIT : God''s way of semantic versioning'
+authors:
+  - palash_programmer
+date: 2022-07-31T18:30:00.000Z
 tags:
   - git
   - programming
@@ -7,10 +10,8 @@ tags:
 description: Blog By Palash Shrivastava
 hide_table_of_contents: false
 slug: git-essentials
-title: 'GIT : God''s way of semantic versioning'
 draft: false
 image: 'https://avatars.githubusercontent.com/u/35087196?v=4'
-date: 2022-07-31T18:30:00.000Z
 ---
 
 Here are some of the GIT hacks everyone should know of
@@ -62,4 +63,28 @@ git push origin -d <branch-name>
 
 ```bash
 git commit -am "add all and commit"
+```
+
+### 5. Take a fresh pull of an existing branch without resolving merge conflicts
+
+Need to delete your local branch and re-fetch it cleanly from the remote.
+
+<Admonition type="warning">
+  This will discard all local changes in that branch. Make sure to back up anything you want to keep.
+</Admonition>
+
+```bash
+# Steps to Take Fresh Pull of an Existing Branch
+
+# 1. Switch to another branch (like main or master)
+git checkout main
+
+# 2. Delete the local branch (force delete, since it has conflicts)
+git branch -D your-branch-name
+
+# 3. Fetch the latest branches from remote
+git fetch origin
+
+# 4. Checkout the branch freshly from remote
+git checkout -b your-branch-name origin/your-branch-name
 ```
