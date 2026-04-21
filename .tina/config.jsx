@@ -50,7 +50,7 @@ const PostCollection = {
   name: "post",
   label: "Posts",
   path: "blog",
-  format: "md",
+  format: "mdx",
   ui: {
     defaultItem: {
       author: 'Palash Shrivastava',
@@ -153,7 +153,7 @@ const DocsCollection = {
   name: "doc",
   label: "Docs",
   path: "docs",
-  format: "md",
+  format: "mdx",
   fields: [
     {
       type: "string",

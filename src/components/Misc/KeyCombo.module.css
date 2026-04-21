@@ -1,0 +1,30 @@
+.combo {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-bottom: 8px;
+}
+
+.key {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--ifm-color-emphasis-100);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-bottom: 3px solid var(--ifm-color-emphasis-400);
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--ifm-color-emphasis-800);
+  min-width: 36px;
+  text-align: center;
+}
+
+.plus {
+  color: var(--ifm-color-emphasis-500);
+  font-size: 1rem;
+  font-weight: 300;
+  padding: 0 2px;
+}
