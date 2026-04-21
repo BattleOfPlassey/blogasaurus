@@ -50,7 +50,7 @@ const PostCollection = {
   name: "post",
   label: "Posts",
   path: "blog",
-  format: "md",
+  format: "mdx",
   ui: {
     defaultItem: () => {
       return {
