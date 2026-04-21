@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_classic_typescript=self.webpackChunkdocusaurus_classic_typescript||[]).push([["6074"],{4578(s,c,a){a.d(c,{A:()=>d}),a(6540);var t=a(9187),e=a(1113),i=a(6504),u=a(773),o=a(7250),A=a(1315);let d={...t.A,Details:i.A,CodeBlock:e.A,Tabs:u.A,TabItem:o.A,Admonition:t.A.admonition,DocCardList:A.A}}}]);
